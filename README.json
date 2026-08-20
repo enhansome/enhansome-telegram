@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:52:53Z",
+            "last_commit": "2026-08-20T02:07:12Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386764
+            "stars": 386806
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-04-23T17:18:25Z",
             "owner": "ilyarolf",
             "repo": "AiogramShopBot",
-            "stars": 225
+            "stars": 226
           }
         },
         {
@@ -379,7 +379,7 @@
                     "last_commit": "2026-08-18T20:27:59Z",
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8761
+                    "stars": 8762
                   }
                 },
                 {
@@ -581,7 +581,7 @@
                     "last_commit": "2026-08-18T13:56:45Z",
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9200
+                    "stars": 9201
                   }
                 },
                 {
@@ -872,7 +872,7 @@
                     "last_commit": "2026-08-18T22:46:56Z",
                     "owner": "irazasyed",
                     "repo": "telegram-bot-sdk",
-                    "stars": 3303
+                    "stars": 3302
                   }
                 },
                 {
@@ -954,7 +954,7 @@
                     "last_commit": "2024-08-14T05:51:15Z",
                     "owner": "go-telegram-bot-api",
                     "repo": "telegram-bot-api",
-                    "stars": 6400
+                    "stars": 6401
                   }
                 },
                 {
@@ -1115,10 +1115,10 @@
                     "archived": false,
                     "id": 38309014,
                     "language": "C++",
-                    "last_commit": "2026-08-13T12:53:33Z",
+                    "last_commit": "2026-08-19T18:57:47Z",
                     "owner": "reo7sp",
                     "repo": "tgbot-cpp",
-                    "stars": 1185
+                    "stars": 1186
                   }
                 },
                 {
@@ -1155,7 +1155,7 @@
                     "last_commit": "2026-08-08T10:16:36Z",
                     "owner": "teloxide",
                     "repo": "teloxide",
-                    "stars": 4206
+                    "stars": 4208
                   }
                 },
                 {
@@ -1298,7 +1298,7 @@
             "last_commit": "2026-01-27T16:43:08Z",
             "owner": "vognik",
             "repo": "maltego-telegram",
-            "stars": 549
+            "stars": 550
           }
         },
         {
@@ -1325,10 +1325,10 @@
             "archived": false,
             "id": 1103497752,
             "language": "Python",
-            "last_commit": "2026-08-19T12:41:20Z",
+            "last_commit": "2026-08-20T00:02:55Z",
             "owner": "GeiserX",
             "repo": "Telegram-Archive",
-            "stars": 183
+            "stars": 184
           }
         },
         {
@@ -1358,7 +1358,7 @@
             "last_commit": "2026-05-23T21:21:42Z",
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -1385,7 +1385,7 @@
             "archived": false,
             "id": 1151877538,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:33:20Z",
+            "last_commit": "2026-08-20T00:10:58Z",
             "owner": "TONresistor",
             "repo": "teleton-agent",
             "stars": 90
@@ -1603,7 +1603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:53:43.933Z",
+    "last_updated": "2026-08-20T02:07:25.228Z",
     "original_repository": "ebertti/awesome-telegram",
     "original_repository_id": 62419944,
     "original_repository_sha": "475fc7e15f733f3d7942e4a87611e4727423a1e9",
