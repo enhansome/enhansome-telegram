@@ -39,7 +39,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 
 ## Bots
 
-* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 387,439 | 🐛 5,921 | 🌐 TypeScript | 📅 2026-08-25 – Self-hosted AI assistant that connects Claude to Telegram (and 7 other channels) from a single deployment. Supports hooks, plugins, and tools. Telegram setup: <https://clawdbot.blog/channels/telegram/>
+* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 387,486 | 🐛 5,922 | 🌐 TypeScript | 📅 2026-08-25 – Self-hosted AI assistant that connects Claude to Telegram (and 7 other channels) from a single deployment. Supports hooks, plugins, and tools. Telegram setup: <https://clawdbot.blog/channels/telegram/>
 
 * [TikTok Live Recorder | TikRec](https://t.me/tikrec_live_bot) – [Open Source](https://github.com/Michele0303/tiktok-live-recorder) ⭐ 886 | 🐛 138 | 🌐 Python | 📅 2026-08-12 bot that records TikTok live streams and delivers the MP4 to your Telegram chat. Free, with a public archive at [tikrec.com](https://tikrec.com).
 
@@ -254,7 +254,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [Telegraf](https://github.com/telegraf/telegraf) ⭐ 9,182 | 🐛 80 | 🌐 TypeScript | 📅 2025-01-11 – Telegram bot framework (JavaScript, Typescript, Node.js)
 * [grammY](https://github.com/grammyjs/grammY) ⭐ 3,720 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-24 – The Telegram Bot Framework. (JavaScript, Typescript, Node.js)
 * [@mtproto/core](https://github.com/alik0211/mtproto-core) ⚠️ Archived – Telegram API (MTProto) client library for browser and nodejs
-* [mtcute](https://github.com/mtcute/mtcute) ⭐ 548 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-28 – modern typescript library for mtproto
+* [mtcute](https://github.com/mtcute/mtcute) ⭐ 549 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-28 – modern typescript library for mtproto
 * [telegram.link](https://github.com/enricostara/telegram.link) ⭐ 333 | 🐛 27 | 🌐 JavaScript | 📅 2023-07-14 – Telegram API library (JavaScript, Node.js)
 * [GramIO](https://github.com/gramiojs/gramio) ⭐ 285 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-25 – Powerful, extensible and really type-safe Telegram Bot API framework
 * [MTKruto](https://github.com/MTKruto/MTKruto) ⭐ 171 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-24 – Cross-runtime JavaScript library for building Telegram clients.
