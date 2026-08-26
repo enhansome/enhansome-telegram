@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:48:26Z",
+            "last_commit": "2026-08-26T02:13:33Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387486
+            "stars": 387613
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-12T21:11:34Z",
             "owner": "Michele0303",
             "repo": "tiktok-live-recorder",
-            "stars": 886
+            "stars": 887
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-04-23T17:18:25Z",
             "owner": "ilyarolf",
             "repo": "AiogramShopBot",
-            "stars": 229
+            "stars": 231
           }
         },
         {
@@ -371,7 +371,7 @@
                     "last_commit": "2026-08-23T20:54:04Z",
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29426
+                    "stars": 29428
                   }
                 },
                 {
@@ -401,7 +401,7 @@
                     "last_commit": "2026-08-22T22:38:47Z",
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8765
+                    "stars": 8766
                   }
                 },
                 {
@@ -413,10 +413,10 @@
                     "archived": false,
                     "id": 111210856,
                     "language": "Python",
-                    "last_commit": "2026-08-24T23:14:57Z",
+                    "last_commit": "2026-08-26T00:02:37Z",
                     "owner": "aiogram",
                     "repo": "aiogram",
-                    "stars": 5844
+                    "stars": 5847
                   }
                 },
                 {
@@ -566,7 +566,7 @@
                     "last_commit": "2026-02-24T02:37:12Z",
                     "owner": "xwc9527",
                     "repo": "telebackup",
-                    "stars": 8
+                    "stars": 9
                   }
                 },
                 {
@@ -603,7 +603,7 @@
                     "last_commit": "2026-08-24T20:48:28Z",
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9203
+                    "stars": 9201
                   }
                 },
                 {
@@ -618,7 +618,7 @@
                     "last_commit": "2025-01-11T06:02:13Z",
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9182
+                    "stars": 9181
                   }
                 },
                 {
@@ -630,7 +630,7 @@
                     "archived": false,
                     "id": 351928388,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T16:18:42Z",
+                    "last_commit": "2026-08-25T14:23:35Z",
                     "owner": "grammyjs",
                     "repo": "grammY",
                     "stars": 3720
@@ -705,7 +705,7 @@
                     "archived": false,
                     "id": 622257063,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T18:57:22Z",
+                    "last_commit": "2026-08-25T23:37:55Z",
                     "owner": "MTKruto",
                     "repo": "MTKruto",
                     "stars": 171
@@ -809,7 +809,7 @@
                     "archived": false,
                     "id": 38169179,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T16:57:57Z",
+                    "last_commit": "2026-08-25T21:30:41Z",
                     "owner": "atipugin",
                     "repo": "telegram-bot-ruby",
                     "stars": 1426
@@ -879,7 +879,7 @@
                     "last_commit": "2026-08-17T11:47:33Z",
                     "owner": "danog",
                     "repo": "MadelineProto",
-                    "stars": 3500
+                    "stars": 3501
                   }
                 },
                 {
@@ -894,7 +894,7 @@
                     "last_commit": "2026-08-20T10:35:28Z",
                     "owner": "irazasyed",
                     "repo": "telegram-bot-sdk",
-                    "stars": 3304
+                    "stars": 3303
                   }
                 },
                 {
@@ -921,7 +921,7 @@
                     "archived": false,
                     "id": 337532146,
                     "language": "PHP",
-                    "last_commit": "2026-08-07T07:59:27Z",
+                    "last_commit": "2026-08-25T07:17:42Z",
                     "owner": "nutgram",
                     "repo": "nutgram",
                     "stars": 743
@@ -1003,10 +1003,10 @@
                     "archived": false,
                     "id": 312623308,
                     "language": "Go",
-                    "last_commit": "2026-08-23T08:00:08Z",
+                    "last_commit": "2026-08-25T08:22:33Z",
                     "owner": "gotd",
                     "repo": "td",
-                    "stars": 2317
+                    "stars": 2318
                   }
                 },
                 {
@@ -1177,7 +1177,7 @@
                     "last_commit": "2026-08-08T10:16:36Z",
                     "owner": "teloxide",
                     "repo": "teloxide",
-                    "stars": 4213
+                    "stars": 4215
                   }
                 },
                 {
@@ -1207,7 +1207,7 @@
                     "last_commit": "2026-07-19T12:04:23Z",
                     "owner": "ayrat555",
                     "repo": "frankenstein",
-                    "stars": 367
+                    "stars": 369
                   }
                 }
               ],
@@ -1386,7 +1386,7 @@
             "last_commit": "2026-01-27T16:43:08Z",
             "owner": "vognik",
             "repo": "maltego-telegram",
-            "stars": 553
+            "stars": 555
           }
         },
         {
@@ -1413,7 +1413,7 @@
             "archived": false,
             "id": 1103497752,
             "language": "Python",
-            "last_commit": "2026-08-24T20:37:52Z",
+            "last_commit": "2026-08-25T10:10:34Z",
             "owner": "GeiserX",
             "repo": "Telegram-Archive",
             "stars": 189
@@ -1521,7 +1521,7 @@
             "last_commit": "2026-08-05T07:15:38Z",
             "owner": "rfsbraz",
             "repo": "telegram-downloader",
-            "stars": 25
+            "stars": 26
           }
         },
         {
@@ -1668,7 +1668,7 @@
             "last_commit": "2026-08-24T15:51:18Z",
             "owner": "palark",
             "repo": "awesome-devops-telegram",
-            "stars": 290
+            "stars": 292
           }
         },
         {
@@ -1691,7 +1691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:49:14.955Z",
+    "last_updated": "2026-08-26T02:14:30.044Z",
     "original_repository": "ebertti/awesome-telegram",
     "original_repository_id": 62419944,
     "original_repository_sha": "475fc7e15f733f3d7942e4a87611e4727423a1e9",
