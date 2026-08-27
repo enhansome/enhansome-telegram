@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:35:39Z",
+            "last_commit": "2026-08-27T12:10:21Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387778
+            "stars": 387782
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-12T21:11:34Z",
             "owner": "Michele0303",
             "repo": "tiktok-live-recorder",
-            "stars": 891
+            "stars": 892
           }
         },
         {
@@ -371,7 +371,7 @@
                     "last_commit": "2026-08-23T20:54:04Z",
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29435
+                    "stars": 29436
                   }
                 },
                 {
@@ -401,7 +401,7 @@
                     "last_commit": "2026-08-22T22:38:47Z",
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8766
+                    "stars": 8767
                   }
                 },
                 {
@@ -416,7 +416,7 @@
                     "last_commit": "2026-08-26T00:02:37Z",
                     "owner": "aiogram",
                     "repo": "aiogram",
-                    "stars": 5848
+                    "stars": 5849
                   }
                 },
                 {
@@ -879,7 +879,7 @@
                     "last_commit": "2026-08-17T11:47:33Z",
                     "owner": "danog",
                     "repo": "MadelineProto",
-                    "stars": 3501
+                    "stars": 3502
                   }
                 },
                 {
@@ -1058,7 +1058,7 @@
                     "last_commit": "2026-08-22T22:11:14Z",
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5505
+                    "stars": 5506
                   }
                 },
                 {
@@ -1177,7 +1177,7 @@
                     "last_commit": "2026-08-08T10:16:36Z",
                     "owner": "teloxide",
                     "repo": "teloxide",
-                    "stars": 4220
+                    "stars": 4221
                   }
                 },
                 {
@@ -1386,7 +1386,7 @@
             "last_commit": "2026-01-27T16:43:08Z",
             "owner": "vognik",
             "repo": "maltego-telegram",
-            "stars": 557
+            "stars": 558
           }
         },
         {
@@ -1691,7 +1691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:35:45.081Z",
+    "last_updated": "2026-08-27T12:10:46.626Z",
     "original_repository_info": {
       "archived": false,
       "id": 62419944,
