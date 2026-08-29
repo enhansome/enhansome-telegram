@@ -15,11 +15,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T04:14:40Z",
-            "open_issues": 5728,
+            "last_commit": "2026-08-29T07:25:55Z",
+            "open_issues": 5727,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387945,
+            "stars": 387954,
             "topics": [
               "ai",
               "assistant",
@@ -596,7 +596,7 @@
             "id": 1296990152,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-22T04:55:05Z",
+            "last_commit": "2026-08-29T04:54:45Z",
             "open_issues": 9,
             "owner": "IgorShadurin",
             "repo": "weight-telegram-bot",
@@ -750,7 +750,7 @@
                     "open_issues": 41,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29437,
+                    "stars": 29439,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -1253,7 +1253,7 @@
                     "open_issues": 22,
                     "owner": "grammyjs",
                     "repo": "grammY",
-                    "stars": 3725,
+                    "stars": 3726,
                     "topics": [
                       "bot",
                       "deno",
@@ -2691,7 +2691,7 @@
             "open_issues": 0,
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 165,
+            "stars": 164,
             "topics": [
               "ai-agent",
               "anthropic",
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:15:11.889Z",
+    "last_updated": "2026-08-29T07:26:22.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection great groups, channels, bots and libraries for Telegram",
