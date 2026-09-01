@@ -15,11 +15,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T06:15:11Z",
-            "open_issues": 5754,
+            "last_commit": "2026-09-01T05:43:04Z",
+            "open_issues": 5925,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 388126,
+            "stars": 388374,
             "topics": [
               "ai",
               "assistant",
@@ -45,10 +45,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-12T21:11:34Z",
-            "open_issues": 138,
+            "open_issues": 137,
             "owner": "Michele0303",
             "repo": "tiktok-live-recorder",
-            "stars": 893,
+            "stars": 894,
             "topics": [
               "bot",
               "live",
@@ -79,11 +79,11 @@
             "id": 1172886754,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T22:13:49Z",
-            "open_issues": 1,
+            "last_commit": "2026-08-31T17:15:07Z",
+            "open_issues": 4,
             "owner": "aeonfun",
             "repo": "aeon",
-            "stars": 707,
+            "stars": 711,
             "topics": [
               "agent-framework",
               "agents",
@@ -143,7 +143,7 @@
             "id": 611324299,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-04-23T17:18:25Z",
+            "last_commit": "2026-08-31T23:29:22Z",
             "open_issues": 1,
             "owner": "ilyarolf",
             "repo": "AiogramShopBot",
@@ -527,38 +527,6 @@
         },
         {
           "node_type": "item",
-          "title": "Rasptele",
-          "description": "Open-source self-hosted Telegram bot to monitor Raspberry Pi health, manage Docker containers, and control Pi-hole.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Securely monitor and manage a Raspberry Pi Docker homelab from Telegram.",
-            "homepage": null,
-            "id": 1304023233,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-14T13:54:18Z",
-            "open_issues": 11,
-            "owner": "maddhruv",
-            "repo": "rasptele",
-            "stars": 2,
-            "topics": [
-              "coolify",
-              "docker",
-              "homelab",
-              "monitoring",
-              "pihole",
-              "portainer",
-              "python",
-              "raspberry-pi",
-              "self-hosted",
-              "telegram-bot"
-            ]
-          },
-          "first_seen": "2026-08-31T06:15:21.468Z"
-        },
-        {
-          "node_type": "item",
           "title": "Filaxy Herald",
           "description": "Open Source build-in-public bot that turns your GitHub activity into short posts. It drafts an update about what you shipped and sends it to you on Telegram with ✅/❌ buttons; approved posts are published to X. Includes a safety guardrail that strips secrets before anything is shown. Self-hostable, MIT, Node.js.",
           "children": [],
@@ -588,6 +556,38 @@
             ]
           },
           "first_seen": "2026-08-28T12:15:47.616Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Rasptele",
+          "description": "Open-source self-hosted Telegram bot to monitor Raspberry Pi health, manage Docker containers, and control Pi-hole.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Securely monitor and manage a Raspberry Pi Docker homelab from Telegram.",
+            "homepage": null,
+            "id": 1304023233,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-14T13:54:18Z",
+            "open_issues": 11,
+            "owner": "maddhruv",
+            "repo": "rasptele",
+            "stars": 2,
+            "topics": [
+              "coolify",
+              "docker",
+              "homelab",
+              "monitoring",
+              "pihole",
+              "portainer",
+              "python",
+              "raspberry-pi",
+              "self-hosted",
+              "telegram-bot"
+            ]
+          },
+          "first_seen": "2026-08-31T06:15:21.468Z"
         },
         {
           "node_type": "item",
@@ -712,6 +712,27 @@
         },
         {
           "node_type": "item",
+          "title": "C3Poh",
+          "description": "Telegram bridge that lets you DM your Claude Code AI agent from your phone and receive responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "C3Poh is the communications layer for Claude Code",
+            "homepage": null,
+            "id": 1161960576,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-03-17T23:32:00Z",
+            "open_issues": 0,
+            "owner": "andyuninvited",
+            "repo": "c3poh_for_claudecode",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T12:15:47.616Z"
+        },
+        {
+          "node_type": "item",
           "title": "@dev_pinger_bot",
           "description": "Open Source Notification inbox for GitHub PRs, CI failures, and Jira issues with inline approve, comment, transition, and mute actions. Self-hostable, MIT, Node.js.",
           "children": [],
@@ -775,27 +796,6 @@
           "first_seen": "2026-08-31T06:15:21.468Z"
         },
         {
-          "node_type": "item",
-          "title": "C3Poh",
-          "description": "Telegram bridge that lets you DM your Claude Code AI agent from your phone and receive responses.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "C3Poh is the communications layer for Claude Code",
-            "homepage": null,
-            "id": 1161960576,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-03-17T23:32:00Z",
-            "open_issues": 0,
-            "owner": "andyuninvited",
-            "repo": "c3poh_for_claudecode",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T12:15:47.616Z"
-        },
-        {
           "children": [
             {
               "node_type": "item",
@@ -846,11 +846,11 @@
                     "id": 38696925,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-30T01:17:16Z",
+                    "last_commit": "2026-09-01T01:14:36Z",
                     "open_issues": 43,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29440,
+                    "stars": 29442,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -877,7 +877,7 @@
                     "open_issues": 1,
                     "owner": "LonamiWebs",
                     "repo": "Telethon",
-                    "stars": 12057,
+                    "stars": 12056,
                     "topics": [
                       "hacktoberfest",
                       "library",
@@ -906,7 +906,7 @@
                     "open_issues": 5,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8768,
+                    "stars": 8769,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -933,7 +933,7 @@
                     "open_issues": 62,
                     "owner": "aiogram",
                     "repo": "aiogram",
-                    "stars": 5852,
+                    "stars": 5853,
                     "topics": [
                       "aiogram",
                       "asyncio",
@@ -962,7 +962,7 @@
                     "open_issues": 279,
                     "owner": "pyrogram",
                     "repo": "pyrogram",
-                    "stars": 4619,
+                    "stars": 4616,
                     "topics": [
                       "async",
                       "client",
@@ -1251,7 +1251,7 @@
                     "id": 1238432054,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-08-31T01:55:05Z",
+                    "last_commit": "2026-08-31T08:45:34Z",
                     "open_issues": 0,
                     "owner": "GoyGram",
                     "repo": "GoyGram",
@@ -1325,7 +1325,7 @@
                     "open_issues": 1,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9205,
+                    "stars": 9204,
                     "topics": [
                       "api",
                       "bot",
@@ -1353,7 +1353,7 @@
                     "open_issues": 80,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9178,
+                    "stars": 9177,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -1498,7 +1498,7 @@
                     "open_issues": 5,
                     "owner": "gramiojs",
                     "repo": "gramio",
-                    "stars": 288,
+                    "stars": 289,
                     "topics": [
                       "bun",
                       "framework",
@@ -1785,7 +1785,7 @@
                     "open_issues": 84,
                     "owner": "php-telegram-bot",
                     "repo": "core",
-                    "stars": 4018,
+                    "stars": 4017,
                     "topics": [
                       "bot-api",
                       "hacktoberfest",
@@ -1816,7 +1816,7 @@
                     "open_issues": 73,
                     "owner": "danog",
                     "repo": "MadelineProto",
-                    "stars": 3501,
+                    "stars": 3503,
                     "topics": [
                       "amphp",
                       "async",
@@ -2020,7 +2020,7 @@
                     "open_issues": 174,
                     "owner": "go-telegram-bot-api",
                     "repo": "telegram-bot-api",
-                    "stars": 6402,
+                    "stars": 6403,
                     "topics": [
                       "golang",
                       "hacktoberfest",
@@ -2066,7 +2066,7 @@
                     "open_issues": 13,
                     "owner": "gotd",
                     "repo": "td",
-                    "stars": 2324,
+                    "stars": 2326,
                     "topics": [
                       "bot-api",
                       "go",
@@ -2156,11 +2156,11 @@
                     "id": 49610798,
                     "language": "Java",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T21:35:57Z",
-                    "open_issues": 197,
+                    "last_commit": "2026-08-31T09:48:39Z",
+                    "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5507,
+                    "stars": 5508,
                     "topics": [
                       "java",
                       "java-library",
@@ -2358,7 +2358,7 @@
                     "open_issues": 73,
                     "owner": "teloxide",
                     "repo": "teloxide",
-                    "stars": 4224,
+                    "stars": 4225,
                     "topics": [
                       "rust",
                       "telegram",
@@ -2665,7 +2665,7 @@
                     "open_issues": 7,
                     "owner": "Al-Muhandis",
                     "repo": "fp-telegram",
-                    "stars": 91,
+                    "stars": 92,
                     "topics": [
                       "freepascal",
                       "lazarus",
@@ -2780,11 +2780,11 @@
             "id": 1103497752,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T20:46:30Z",
+            "last_commit": "2026-08-31T22:16:37Z",
             "open_issues": 0,
             "owner": "GeiserX",
             "repo": "Telegram-Archive",
-            "stars": 192,
+            "stars": 193,
             "topics": [
               "archive",
               "automation",
@@ -2890,7 +2890,7 @@
             "open_issues": 1,
             "owner": "Linuxmaster14",
             "repo": "telepipe",
-            "stars": 97,
+            "stars": 96,
             "topics": [
               "alerts",
               "bash",
@@ -2950,7 +2950,7 @@
             "id": 1152042352,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-30T02:23:51Z",
+            "last_commit": "2026-08-31T21:43:16Z",
             "open_issues": 173,
             "owner": "littlebearapps",
             "repo": "untether",
@@ -3042,6 +3042,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T12:15:47.616Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FlowCastle SDK",
+          "description": "MIT middleware for grammY, Telegraf, aiogram and python-telegram-bot that adds a contact CRM, live chat, broadcasts, and conversion analytics to an existing bot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Add CRM, Live Chat, broadcasts & analytics to your Telegram bot — SDK for grammY, Telegraf, aiogram, python-telegram-bot. Keep your code and your token.",
+            "homepage": "https://flowcastle.ai",
+            "id": 1348598291,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-30T13:19:54Z",
+            "open_issues": 0,
+            "owner": "FlowCastle",
+            "repo": "flowcastle-sdk",
+            "stars": 3,
+            "topics": [
+              "aiogram",
+              "analytics",
+              "bot-builder",
+              "bot-development",
+              "bot-framework",
+              "broadcast",
+              "chatbot",
+              "crm",
+              "grammy",
+              "live-chat",
+              "no-code",
+              "nodejs",
+              "python",
+              "python-telegram-bot",
+              "sdk",
+              "telegraf",
+              "telegram",
+              "telegram-bot",
+              "telegram-bot-api",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-01T05:43:14.362Z"
         },
         {
           "node_type": "item",
@@ -3467,7 +3509,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-27T17:53:09Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "grammyjs",
             "repo": "awesome-grammY",
             "stars": 278,
@@ -3484,7 +3526,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T06:15:21.468Z",
+    "last_updated": "2026-09-01T05:43:14.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection great groups, channels, bots and libraries for Telegram",
@@ -3492,17 +3534,17 @@
       "id": 62419944,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-31T03:49:53Z",
+      "last_commit": "2026-08-31T21:12:27Z",
       "open_issues": 34,
       "owner": "ebertti",
       "repo": "awesome-telegram",
-      "stars": 5645,
+      "stars": 5646,
       "topics": [
         "awesome-list",
         "telegram"
       ]
     },
-    "original_repository_sha": "20f5577e55b2a124142269d5f6cfa9f48b964459",
+    "original_repository_sha": "a8ab18cc51e9747d75524abe4f22f5e8aaecf74a",
     "enhanced_repository": "enhansome/enhansome-telegram",
     "enhanced_repository_description": null,
     "title": "Awesome Telegram with stars"
