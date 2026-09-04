@@ -10,16 +10,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+            "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
             "homepage": "https://openclaw.ai",
             "id": 1103012935,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T05:08:30Z",
-            "open_issues": 6106,
+            "last_commit": "2026-09-04T05:08:07Z",
+            "open_issues": 6317,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 388667,
+            "stars": 388802,
             "topics": [
               "ai",
               "assistant",
@@ -48,7 +48,7 @@
             "open_issues": 137,
             "owner": "Michele0303",
             "repo": "tiktok-live-recorder",
-            "stars": 895,
+            "stars": 896,
             "topics": [
               "bot",
               "live",
@@ -79,8 +79,8 @@
             "id": 1172886754,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T02:32:20Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-04T02:06:29Z",
+            "open_issues": 1,
             "owner": "aeonfun",
             "repo": "aeon",
             "stars": 714,
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "ilyarolf",
             "repo": "AiogramShopBot",
-            "stars": 235,
+            "stars": 232,
             "topics": [
               "aiogram3",
               "binance-coin",
@@ -315,7 +315,7 @@
           "description": "is an open-source bot to keep groups clean from cryptocurrency ”airdrop” spam",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "☔ AirNope keeps Telegram groups clean from ”airdrop” spam",
             "homepage": "https://t.me/airnope_bot",
             "id": 836851911,
@@ -394,7 +394,7 @@
             "open_issues": 0,
             "owner": "luoyanglang",
             "repo": "AI-Anti-Spam-Bot",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "anti-spam",
               "python",
@@ -847,10 +847,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-01T22:44:34Z",
-                    "open_issues": 37,
+                    "open_issues": 38,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29445,
+                    "stars": 29447,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -877,7 +877,7 @@
                     "open_issues": 1,
                     "owner": "LonamiWebs",
                     "repo": "Telethon",
-                    "stars": 12057,
+                    "stars": 12056,
                     "topics": [
                       "hacktoberfest",
                       "library",
@@ -906,7 +906,7 @@
                     "open_issues": 5,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8771,
+                    "stars": 8772,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -930,10 +930,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-26T00:02:37Z",
-                    "open_issues": 67,
+                    "open_issues": 70,
                     "owner": "aiogram",
                     "repo": "aiogram",
-                    "stars": 5854,
+                    "stars": 5857,
                     "topics": [
                       "aiogram",
                       "asyncio",
@@ -1017,7 +1017,7 @@
                     "open_issues": 9,
                     "owner": "PaulSonOfLars",
                     "repo": "tgbot",
-                    "stars": 753,
+                    "stars": 754,
                     "topics": [
                       "bot",
                       "database",
@@ -1419,7 +1419,7 @@
                     "open_issues": 22,
                     "owner": "grammyjs",
                     "repo": "grammY",
-                    "stars": 3732,
+                    "stars": 3734,
                     "topics": [
                       "bot",
                       "deno",
@@ -1480,10 +1480,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-08-30T18:24:09Z",
-                    "open_issues": 19,
+                    "open_issues": 20,
                     "owner": "mtcute",
                     "repo": "mtcute",
-                    "stars": 553,
+                    "stars": 554,
                     "topics": [
                       "bun",
                       "deno",
@@ -1819,7 +1819,7 @@
                     "open_issues": 84,
                     "owner": "php-telegram-bot",
                     "repo": "core",
-                    "stars": 4018,
+                    "stars": 4017,
                     "topics": [
                       "bot-api",
                       "hacktoberfest",
@@ -1850,7 +1850,7 @@
                     "open_issues": 73,
                     "owner": "danog",
                     "repo": "MadelineProto",
-                    "stars": 3505,
+                    "stars": 3507,
                     "topics": [
                       "amphp",
                       "async",
@@ -1927,7 +1927,7 @@
                     "open_issues": 63,
                     "owner": "TelegramBot",
                     "repo": "Api",
-                    "stars": 1193,
+                    "stars": 1194,
                     "topics": [
                       "api-wrapper",
                       "bot-api",
@@ -1953,7 +1953,7 @@
                     "open_issues": 4,
                     "owner": "nutgram",
                     "repo": "nutgram",
-                    "stars": 743,
+                    "stars": 744,
                     "topics": [
                       "api",
                       "bot-framework",
@@ -2100,7 +2100,7 @@
                     "open_issues": 13,
                     "owner": "gotd",
                     "repo": "td",
-                    "stars": 2329,
+                    "stars": 2331,
                     "topics": [
                       "bot-api",
                       "go",
@@ -2194,7 +2194,7 @@
                     "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5509,
+                    "stars": 5510,
                     "topics": [
                       "java",
                       "java-library",
@@ -2226,7 +2226,7 @@
                     "open_issues": 9,
                     "owner": "pengrad",
                     "repo": "java-telegram-bot-api",
-                    "stars": 1958,
+                    "stars": 1959,
                     "topics": [
                       "bot",
                       "telegram",
@@ -2446,10 +2446,10 @@
                     "language": "Rust",
                     "license": "WTFPL",
                     "last_commit": "2026-08-28T17:24:06Z",
-                    "open_issues": 14,
+                    "open_issues": 15,
                     "owner": "ayrat555",
                     "repo": "frankenstein",
-                    "stars": 373,
+                    "stars": 372,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:15:47.616Z"
@@ -2814,11 +2814,11 @@
             "id": 1103497752,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T13:42:43Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-03T15:17:13Z",
+            "open_issues": 1,
             "owner": "GeiserX",
             "repo": "Telegram-Archive",
-            "stars": 195,
+            "stars": 196,
             "topics": [
               "archive",
               "automation",
@@ -2924,7 +2924,7 @@
             "open_issues": 1,
             "owner": "Linuxmaster14",
             "repo": "telepipe",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "alerts",
               "bash",
@@ -3282,7 +3282,7 @@
             "id": 1127342290,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T17:28:24Z",
+            "last_commit": "2026-09-03T19:11:53Z",
             "open_issues": 1,
             "owner": "Avazbek22",
             "repo": "LinkDownloaderBotForGroups",
@@ -3543,7 +3543,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-27T17:53:09Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "grammyjs",
             "repo": "awesome-grammY",
             "stars": 278,
@@ -3560,7 +3560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T05:09:04.785Z",
+    "last_updated": "2026-09-04T05:08:32.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection great groups, channels, bots and libraries for Telegram",
@@ -3572,7 +3572,7 @@
       "open_issues": 34,
       "owner": "ebertti",
       "repo": "awesome-telegram",
-      "stars": 5646,
+      "stars": 5651,
       "topics": [
         "awesome-list",
         "telegram"
