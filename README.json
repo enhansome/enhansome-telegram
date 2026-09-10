@@ -15,11 +15,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T05:20:07Z",
-            "open_issues": 6428,
+            "last_commit": "2026-09-10T05:21:07Z",
+            "open_issues": 6569,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 389263,
+            "stars": 389328,
             "topics": [
               "ai",
               "assistant",
@@ -79,11 +79,11 @@
             "id": 1172886754,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T17:43:55Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-10T01:55:34Z",
+            "open_issues": 7,
             "owner": "aeonfun",
             "repo": "aeon",
-            "stars": 720,
+            "stars": 721,
             "topics": [
               "agent-framework",
               "agents",
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "ilyarolf",
             "repo": "AiogramShopBot",
-            "stars": 235,
+            "stars": 236,
             "topics": [
               "aiogram3",
               "binance-coin",
@@ -527,6 +527,35 @@
         },
         {
           "node_type": "item",
+          "title": "@Blluchatbot",
+          "description": "Open Source Anonymous chat bot that connects users randomly or by filters (gender, age, location); includes AI profile moderation and abuse-report judging (Gemini Vision + DeepSeek).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ربات تلگرام چت ناشناس — گفتگوی تصادفی، پروفایل، چت امن، پیام ناشناس و جستجوی هدفمند",
+            "homepage": null,
+            "id": 1286745406,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-07-05T19:47:38Z",
+            "open_issues": 0,
+            "owner": "Moorgan21",
+            "repo": "bluechat",
+            "stars": 2,
+            "topics": [
+              "anonymous-chat",
+              "persian",
+              "postgresql",
+              "ptb",
+              "python",
+              "redis",
+              "telegram-bot"
+            ]
+          },
+          "first_seen": "2026-09-10T05:21:09.056Z"
+        },
+        {
+          "node_type": "item",
           "title": "Filaxy Herald",
           "description": "Open Source build-in-public bot that turns your GitHub activity into short posts. It drafts an update about what you shipped and sends it to you on Telegram with ✅/❌ buttons; approved posts are published to X. Includes a safety guardrail that strips secrets before anything is shown. Self-hostable, MIT, Node.js.",
           "children": [],
@@ -847,10 +876,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-06T01:37:00Z",
-                    "open_issues": 39,
+                    "open_issues": 40,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29458,
+                    "stars": 29461,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -877,7 +906,7 @@
                     "open_issues": 1,
                     "owner": "LonamiWebs",
                     "repo": "Telethon",
-                    "stars": 12058,
+                    "stars": 12057,
                     "topics": [
                       "hacktoberfest",
                       "library",
@@ -933,7 +962,7 @@
                     "open_issues": 78,
                     "owner": "aiogram",
                     "repo": "aiogram",
-                    "stars": 5862,
+                    "stars": 5863,
                     "topics": [
                       "aiogram",
                       "asyncio",
@@ -1017,7 +1046,7 @@
                     "open_issues": 9,
                     "owner": "PaulSonOfLars",
                     "repo": "tgbot",
-                    "stars": 754,
+                    "stars": 755,
                     "topics": [
                       "bot",
                       "database",
@@ -1131,7 +1160,7 @@
                     "id": 957345363,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-08T14:35:13Z",
+                    "last_commit": "2026-09-09T16:16:31Z",
                     "open_issues": 0,
                     "owner": "ErisPulse",
                     "repo": "ErisPulse",
@@ -1162,6 +1191,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Teledigest",
+                  "description": "A LLM-driven framework for building Telegram digest and channel-analysis bots.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "LLM-driven framework for building Telegram digest and channel-analysis bots",
+                    "homepage": null,
+                    "id": 1112227753,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-03-07T15:36:40Z",
+                    "open_issues": 1,
+                    "owner": "igoropaniuk",
+                    "repo": "teledigest",
+                    "stars": 24,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T12:15:47.616Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Folds",
                   "description": "An elegant and scalable framework for bots.",
                   "children": [],
@@ -1183,27 +1233,6 @@
                       "telegram-bot",
                       "telethon"
                     ]
-                  },
-                  "first_seen": "2026-08-28T12:15:47.616Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Teledigest",
-                  "description": "A LLM-driven framework for building Telegram digest and channel-analysis bots.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "LLM-driven framework for building Telegram digest and channel-analysis bots",
-                    "homepage": null,
-                    "id": 1112227753,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-03-07T15:36:40Z",
-                    "open_issues": 1,
-                    "owner": "igoropaniuk",
-                    "repo": "teledigest",
-                    "stars": 23,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:15:47.616Z"
                 },
@@ -1251,7 +1280,7 @@
                     "id": 1238432054,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-09T04:37:29Z",
+                    "last_commit": "2026-09-10T05:05:20Z",
                     "open_issues": 0,
                     "owner": "GoyGram",
                     "repo": "GoyGram",
@@ -1359,7 +1388,7 @@
                     "open_issues": 1,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9206,
+                    "stars": 9205,
                     "topics": [
                       "api",
                       "bot",
@@ -1419,7 +1448,7 @@
                     "open_issues": 22,
                     "owner": "grammyjs",
                     "repo": "grammY",
-                    "stars": 3738,
+                    "stars": 3739,
                     "topics": [
                       "bot",
                       "deno",
@@ -1528,7 +1557,7 @@
                     "id": 713502591,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-25T00:13:14Z",
+                    "last_commit": "2026-09-09T23:15:34Z",
                     "open_issues": 5,
                     "owner": "gramiojs",
                     "repo": "gramio",
@@ -2081,7 +2110,7 @@
                     "open_issues": 174,
                     "owner": "go-telegram-bot-api",
                     "repo": "telegram-bot-api",
-                    "stars": 6403,
+                    "stars": 6402,
                     "topics": [
                       "golang",
                       "hacktoberfest",
@@ -2106,7 +2135,7 @@
                     "open_issues": 66,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4631,
+                    "stars": 4632,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:15:47.616Z"
@@ -2127,7 +2156,7 @@
                     "open_issues": 13,
                     "owner": "gotd",
                     "repo": "td",
-                    "stars": 2334,
+                    "stars": 2335,
                     "topics": [
                       "bot-api",
                       "go",
@@ -2221,7 +2250,7 @@
                     "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5513,
+                    "stars": 5515,
                     "topics": [
                       "java",
                       "java-library",
@@ -2253,7 +2282,7 @@
                     "open_issues": 9,
                     "owner": "pengrad",
                     "repo": "java-telegram-bot-api",
-                    "stars": 1959,
+                    "stars": 1958,
                     "topics": [
                       "bot",
                       "telegram",
@@ -2877,7 +2906,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-08T11:26:47Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "GeiserX",
             "repo": "Telegram-Archive",
             "stars": 200,
@@ -3088,7 +3117,7 @@
             "open_issues": 0,
             "owner": "beeyev",
             "repo": "telegram-owl",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "command-line-tool",
               "go",
@@ -3155,7 +3184,7 @@
             "open_issues": 0,
             "owner": "FlowCastle",
             "repo": "flowcastle-sdk",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "aiogram",
               "analytics",
@@ -3180,6 +3209,48 @@
             ]
           },
           "first_seen": "2026-09-01T05:43:14.362Z"
+        },
+        {
+          "node_type": "item",
+          "title": "VideoDownloaderBot",
+          "description": "Self-hosted Telegram bot for receiving supported media as video, original files, or MP3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted Telegram video and audio downloader powered by yt-dlp. Supports YouTube, Instagram, TikTok, X, Reddit and hundreds of other websites.",
+            "homepage": null,
+            "id": 1119202872,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-07T18:25:56Z",
+            "open_issues": 0,
+            "owner": "Avazbek22",
+            "repo": "VideoDownloaderBot",
+            "stars": 4,
+            "topics": [
+              "audio-downloader",
+              "docker",
+              "download-manager",
+              "ffmpeg",
+              "instagram-video-downloader",
+              "media-downloader",
+              "mp3-downloader",
+              "python",
+              "reddit-downloader",
+              "self-hosted",
+              "social-media-downloader",
+              "telegram-bot",
+              "telegram-video-downloader",
+              "tiktok-downloader",
+              "twitter-video-downloader",
+              "video-downloader",
+              "youtube-dl",
+              "youtube-downloader",
+              "youtube-video-downloader",
+              "yt-dlp"
+            ]
+          },
+          "first_seen": "2026-08-31T06:15:21.468Z"
         },
         {
           "node_type": "item",
@@ -3222,6 +3293,48 @@
             ]
           },
           "first_seen": "2026-08-28T12:15:47.616Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LinkDownloaderBotForGroups",
+          "description": "Self-hosted bot that turns supported video links into native Telegram posts for content that users are authorized to download and share.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted Telegram video downloader for group chats, powered by yt-dlp. Automatically replaces shared links with native videos using Docker, caching, deduplication, and safe URL validation.",
+            "homepage": null,
+            "id": 1127342290,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-03T19:11:53Z",
+            "open_issues": 1,
+            "owner": "Avazbek22",
+            "repo": "LinkDownloaderBotForGroups",
+            "stars": 3,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "ffmpeg",
+              "group-chat",
+              "link-downloader",
+              "linux",
+              "media-downloader",
+              "python",
+              "self-hosted",
+              "social-media-downloader",
+              "telegram",
+              "telegram-bot",
+              "telegram-bot-api",
+              "telegram-groups",
+              "telegram-video-downloader",
+              "ubuntu",
+              "video-bot",
+              "video-downloader",
+              "vps",
+              "yt-dlp"
+            ]
+          },
+          "first_seen": "2026-08-31T06:15:21.468Z"
         },
         {
           "node_type": "item",
@@ -3292,90 +3405,6 @@
         },
         {
           "node_type": "item",
-          "title": "VideoDownloaderBot",
-          "description": "Self-hosted Telegram bot for receiving supported media as video, original files, or MP3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Self-hosted Telegram video and audio downloader powered by yt-dlp. Supports YouTube, Instagram, TikTok, X, Reddit and hundreds of other websites.",
-            "homepage": null,
-            "id": 1119202872,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-07T18:25:56Z",
-            "open_issues": 0,
-            "owner": "Avazbek22",
-            "repo": "VideoDownloaderBot",
-            "stars": 3,
-            "topics": [
-              "audio-downloader",
-              "docker",
-              "download-manager",
-              "ffmpeg",
-              "instagram-video-downloader",
-              "media-downloader",
-              "mp3-downloader",
-              "python",
-              "reddit-downloader",
-              "self-hosted",
-              "social-media-downloader",
-              "telegram-bot",
-              "telegram-video-downloader",
-              "tiktok-downloader",
-              "twitter-video-downloader",
-              "video-downloader",
-              "youtube-dl",
-              "youtube-downloader",
-              "youtube-video-downloader",
-              "yt-dlp"
-            ]
-          },
-          "first_seen": "2026-08-31T06:15:21.468Z"
-        },
-        {
-          "node_type": "item",
-          "title": "LinkDownloaderBotForGroups",
-          "description": "Self-hosted bot that turns supported video links into native Telegram posts for content that users are authorized to download and share.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Self-hosted Telegram video downloader for group chats, powered by yt-dlp. Automatically replaces shared links with native videos using Docker, caching, deduplication, and safe URL validation.",
-            "homepage": null,
-            "id": 1127342290,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-03T19:11:53Z",
-            "open_issues": 1,
-            "owner": "Avazbek22",
-            "repo": "LinkDownloaderBotForGroups",
-            "stars": 2,
-            "topics": [
-              "docker",
-              "docker-compose",
-              "ffmpeg",
-              "group-chat",
-              "link-downloader",
-              "linux",
-              "media-downloader",
-              "python",
-              "self-hosted",
-              "social-media-downloader",
-              "telegram",
-              "telegram-bot",
-              "telegram-bot-api",
-              "telegram-groups",
-              "telegram-video-downloader",
-              "ubuntu",
-              "video-bot",
-              "video-downloader",
-              "vps",
-              "yt-dlp"
-            ]
-          },
-          "first_seen": "2026-08-31T06:15:21.468Z"
-        },
-        {
-          "node_type": "item",
           "title": "mtproto-manager",
           "description": "A Bash script for managing MTProto proxies on Linux with Docker, FakeTLS, and multi-user support.",
           "children": [],
@@ -3422,7 +3451,7 @@
             "id": 1328531505,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-08T13:23:39Z",
+            "last_commit": "2026-09-09T17:14:41Z",
             "open_issues": 5,
             "owner": "awdr74100",
             "repo": "telegram-forwarder",
@@ -3608,7 +3637,7 @@
             "open_issues": 6,
             "owner": "grammyjs",
             "repo": "awesome-grammY",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3622,7 +3651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T05:20:13.878Z",
+    "last_updated": "2026-09-10T05:21:09.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection great groups, channels, bots and libraries for Telegram",
@@ -3630,17 +3659,17 @@
       "id": 62419944,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-08T19:15:11Z",
-      "open_issues": 22,
+      "last_commit": "2026-09-09T11:24:38Z",
+      "open_issues": 2,
       "owner": "ebertti",
       "repo": "awesome-telegram",
-      "stars": 5804,
+      "stars": 5805,
       "topics": [
         "awesome-list",
         "telegram"
       ]
     },
-    "original_repository_sha": "ea82008588095d0811d69e83cbfe66d28c5040a4",
+    "original_repository_sha": "974b39ec7afe3af62a0bd2ae5ef864fe5064e98f",
     "enhanced_repository": "enhansome/enhansome-telegram",
     "enhanced_repository_description": null,
     "title": "Awesome Telegram with stars"
