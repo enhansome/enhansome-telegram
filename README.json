@@ -15,11 +15,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T05:24:12Z",
-            "open_issues": 7087,
+            "last_commit": "2026-09-14T05:28:36Z",
+            "open_issues": 7190,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 389545,
+            "stars": 389630,
             "topics": [
               "ai",
               "assistant",
@@ -83,7 +83,7 @@
             "open_issues": 1,
             "owner": "aeonfun",
             "repo": "aeon",
-            "stars": 726,
+            "stars": 728,
             "topics": [
               "agent-framework",
               "agents",
@@ -598,7 +598,7 @@
             "id": 1304023233,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-14T13:54:18Z",
+            "last_commit": "2026-09-13T23:17:10Z",
             "open_issues": 11,
             "owner": "maddhruv",
             "repo": "rasptele",
@@ -875,8 +875,8 @@
                     "id": 38696925,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-13T01:06:01Z",
-                    "open_issues": 41,
+                    "last_commit": "2026-09-13T22:37:20Z",
+                    "open_issues": 32,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
                     "stars": 29462,
@@ -935,7 +935,7 @@
                     "open_issues": 5,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8775,
+                    "stars": 8777,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -962,7 +962,7 @@
                     "open_issues": 78,
                     "owner": "aiogram",
                     "repo": "aiogram",
-                    "stars": 5862,
+                    "stars": 5863,
                     "topics": [
                       "aiogram",
                       "asyncio",
@@ -1155,16 +1155,16 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Event-driven multi-platform bot framework with Dashboard, Docker, hot-reload & module marketplace | 事件驱动的多平台机器人框架 — 一次编写部署 QQ/Telegram/Kook/云湖/Matrix/邮件等 10+ 平台",
+                    "description": "Event-driven multi-platform bot framework with Dashboard, Docker, hot-reload & module marketplace | 事件驱动的多平台机器人框架 — 一次编写部署 QQ/Telegram/Kook/云湖/Matrix/邮件等 15+ 平台",
                     "homepage": "https://www.erisdev.com",
                     "id": 957345363,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-12T10:42:48Z",
+                    "last_commit": "2026-09-13T14:17:08Z",
                     "open_issues": 0,
                     "owner": "ErisPulse",
                     "repo": "ErisPulse",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": [
                       "asyncio",
                       "automation",
@@ -1280,7 +1280,7 @@
                     "id": 1238432054,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-10T10:38:14Z",
+                    "last_commit": "2026-09-13T12:17:59Z",
                     "open_issues": 0,
                     "owner": "GoyGram",
                     "repo": "GoyGram",
@@ -1316,7 +1316,7 @@
                     "open_issues": 0,
                     "owner": "ivan-nechaev",
                     "repo": "anystat-python",
-                    "stars": 2,
+                    "stars": 1,
                     "topics": [
                       "aiogram-middleware",
                       "aiogram3",
@@ -1416,7 +1416,7 @@
                     "open_issues": 80,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9182,
+                    "stars": 9188,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -1512,7 +1512,7 @@
                     "open_issues": 23,
                     "owner": "mtcute",
                     "repo": "mtcute",
-                    "stars": 555,
+                    "stars": 556,
                     "topics": [
                       "bun",
                       "deno",
@@ -1906,7 +1906,7 @@
                     "open_issues": 75,
                     "owner": "danog",
                     "repo": "MadelineProto",
-                    "stars": 3510,
+                    "stars": 3512,
                     "topics": [
                       "amphp",
                       "async",
@@ -1947,7 +1947,7 @@
                     "open_issues": 29,
                     "owner": "irazasyed",
                     "repo": "telegram-bot-sdk",
-                    "stars": 3302,
+                    "stars": 3301,
                     "topics": [
                       "bot",
                       "bot-framework",
@@ -2006,7 +2006,7 @@
                     "language": "PHP",
                     "license": "MIT",
                     "last_commit": "2026-08-28T09:50:03Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "nutgram",
                     "repo": "nutgram",
                     "stars": 746,
@@ -2135,7 +2135,7 @@
                     "open_issues": 66,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4631,
+                    "stars": 4632,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:15:47.616Z"
@@ -2156,7 +2156,7 @@
                     "open_issues": 16,
                     "owner": "gotd",
                     "repo": "td",
-                    "stars": 2338,
+                    "stars": 2339,
                     "topics": [
                       "bot-api",
                       "go",
@@ -2326,7 +2326,7 @@
                     "id": 1150452933,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T11:07:38Z",
+                    "last_commit": "2026-09-13T20:17:41Z",
                     "open_issues": 0,
                     "owner": "olosegres",
                     "repo": "telegramcode",
@@ -2483,7 +2483,7 @@
                     "open_issues": 73,
                     "owner": "teloxide",
                     "repo": "teloxide",
-                    "stars": 4239,
+                    "stars": 4240,
                     "topics": [
                       "rust",
                       "telegram",
@@ -2905,11 +2905,11 @@
             "id": 1103497752,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T21:01:25Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-13T16:26:12Z",
+            "open_issues": 4,
             "owner": "GeiserX",
             "repo": "Telegram-Archive",
-            "stars": 203,
+            "stars": 205,
             "topics": [
               "archive",
               "automation",
@@ -2931,6 +2931,42 @@
               "telegram-backup",
               "web-viewer",
               "websocket"
+            ]
+          },
+          "first_seen": "2026-08-28T12:15:47.616Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenPaw",
+          "description": "Open-source CLI tool () with a built-in Telegram bridge to chat with Claude from your phone. Includes 38 skills covering email, calendar, Spotify, smart home, GitHub, Slack and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Personal Assistant Wizard for Claude Code — npx pawmode",
+            "homepage": "https://www.npmjs.com/package/pawmode",
+            "id": 1169354823,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-05-23T21:21:42Z",
+            "open_issues": 0,
+            "owner": "daxaur",
+            "repo": "openpaw",
+            "stars": 168,
+            "topics": [
+              "ai-agent",
+              "anthropic",
+              "automation",
+              "claude",
+              "claude-code",
+              "cli",
+              "macos",
+              "open-source",
+              "personal-assistant",
+              "productivity",
+              "smart-home",
+              "telegram",
+              "typescript",
+              "vibecoding"
             ]
           },
           "first_seen": "2026-08-28T12:15:47.616Z"
@@ -2959,42 +2995,6 @@
               "shell",
               "telegram",
               "telegram-bots"
-            ]
-          },
-          "first_seen": "2026-08-28T12:15:47.616Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OpenPaw",
-          "description": "Open-source CLI tool () with a built-in Telegram bridge to chat with Claude from your phone. Includes 38 skills covering email, calendar, Spotify, smart home, GitHub, Slack and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Personal Assistant Wizard for Claude Code — npx pawmode",
-            "homepage": "https://www.npmjs.com/package/pawmode",
-            "id": 1169354823,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-05-23T21:21:42Z",
-            "open_issues": 0,
-            "owner": "daxaur",
-            "repo": "openpaw",
-            "stars": 167,
-            "topics": [
-              "ai-agent",
-              "anthropic",
-              "automation",
-              "claude",
-              "claude-code",
-              "cli",
-              "macos",
-              "open-source",
-              "personal-assistant",
-              "productivity",
-              "smart-home",
-              "telegram",
-              "typescript",
-              "vibecoding"
             ]
           },
           "first_seen": "2026-08-28T12:15:47.616Z"
@@ -3075,8 +3075,8 @@
             "id": 1152042352,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T21:38:42Z",
-            "open_issues": 173,
+            "last_commit": "2026-09-13T09:41:34Z",
+            "open_issues": 172,
             "owner": "littlebearapps",
             "repo": "untether",
             "stars": 66,
@@ -3348,7 +3348,7 @@
             "id": 1328531505,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T14:22:17Z",
+            "last_commit": "2026-09-13T17:36:46Z",
             "open_issues": 5,
             "owner": "awdr74100",
             "repo": "telegram-forwarder",
@@ -3651,7 +3651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T05:24:26.064Z",
+    "last_updated": "2026-09-14T05:29:01.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection great groups, channels, bots and libraries for Telegram",
@@ -3660,10 +3660,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-11T20:32:50Z",
-      "open_issues": 3,
+      "open_issues": 8,
       "owner": "ebertti",
       "repo": "awesome-telegram",
-      "stars": 5809,
+      "stars": 5812,
       "topics": [
         "awesome-list",
         "telegram"
