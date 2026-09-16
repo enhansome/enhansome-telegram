@@ -15,11 +15,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T05:26:24Z",
-            "open_issues": 7282,
+            "last_commit": "2026-09-16T05:19:33Z",
+            "open_issues": 7407,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 389716,
+            "stars": 389810,
             "topics": [
               "ai",
               "assistant",
@@ -83,7 +83,7 @@
             "open_issues": 1,
             "owner": "aeonfun",
             "repo": "aeon",
-            "stars": 729,
+            "stars": 734,
             "topics": [
               "agent-framework",
               "agents",
@@ -876,10 +876,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-15T05:07:46Z",
-                    "open_issues": 31,
+                    "open_issues": 30,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29465,
+                    "stars": 29468,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -959,10 +959,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-26T00:02:37Z",
-                    "open_issues": 78,
+                    "open_issues": 79,
                     "owner": "aiogram",
                     "repo": "aiogram",
-                    "stars": 5864,
+                    "stars": 5865,
                     "topics": [
                       "aiogram",
                       "asyncio",
@@ -1160,7 +1160,7 @@
                     "id": 957345363,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-14T09:00:15Z",
+                    "last_commit": "2026-09-15T15:03:32Z",
                     "open_issues": 0,
                     "owner": "ErisPulse",
                     "repo": "ErisPulse",
@@ -1205,7 +1205,7 @@
                     "open_issues": 1,
                     "owner": "igoropaniuk",
                     "repo": "teledigest",
-                    "stars": 25,
+                    "stars": 26,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:15:47.616Z"
@@ -1388,7 +1388,7 @@
                     "open_issues": 1,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9203,
+                    "stars": 9202,
                     "topics": [
                       "api",
                       "bot",
@@ -1448,7 +1448,7 @@
                     "open_issues": 23,
                     "owner": "grammyjs",
                     "repo": "grammY",
-                    "stars": 3743,
+                    "stars": 3742,
                     "topics": [
                       "bot",
                       "deno",
@@ -1512,7 +1512,7 @@
                     "open_issues": 23,
                     "owner": "mtcute",
                     "repo": "mtcute",
-                    "stars": 558,
+                    "stars": 560,
                     "topics": [
                       "bun",
                       "deno",
@@ -1713,7 +1713,7 @@
                     "open_issues": 0,
                     "owner": "wiz0u",
                     "repo": "WTelegramClient",
-                    "stars": 1319,
+                    "stars": 1318,
                     "topics": [
                       "client",
                       "client-api",
@@ -2005,11 +2005,11 @@
                     "id": 337532146,
                     "language": "PHP",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T09:50:03Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-09-15T15:29:45Z",
+                    "open_issues": 4,
                     "owner": "nutgram",
                     "repo": "nutgram",
-                    "stars": 746,
+                    "stars": 747,
                     "topics": [
                       "api",
                       "bot-framework",
@@ -2110,7 +2110,7 @@
                     "open_issues": 174,
                     "owner": "go-telegram-bot-api",
                     "repo": "telegram-bot-api",
-                    "stars": 6403,
+                    "stars": 6404,
                     "topics": [
                       "golang",
                       "hacktoberfest",
@@ -2153,10 +2153,10 @@
                     "language": "Go",
                     "license": "MIT",
                     "last_commit": "2026-08-25T08:22:33Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "gotd",
                     "repo": "td",
-                    "stars": 2344,
+                    "stars": 2346,
                     "topics": [
                       "bot-api",
                       "go",
@@ -2418,7 +2418,7 @@
                     "open_issues": 0,
                     "owner": "reo7sp",
                     "repo": "tgbot-cpp",
-                    "stars": 1189,
+                    "stars": 1191,
                     "topics": [
                       "bot",
                       "cpp",
@@ -2479,8 +2479,8 @@
                     "id": 205705227,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-08-08T10:16:36Z",
-                    "open_issues": 73,
+                    "last_commit": "2026-09-15T11:36:14Z",
+                    "open_issues": 74,
                     "owner": "teloxide",
                     "repo": "teloxide",
                     "stars": 4240,
@@ -2540,7 +2540,7 @@
                     "open_issues": 15,
                     "owner": "ayrat555",
                     "repo": "frankenstein",
-                    "stars": 372,
+                    "stars": 373,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:15:47.616Z"
@@ -2630,7 +2630,7 @@
                     "id": 496567172,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-13T04:31:16Z",
+                    "last_commit": "2026-09-16T01:47:06Z",
                     "open_issues": 5,
                     "owner": "vendelieu",
                     "repo": "telegram-bot",
@@ -2905,7 +2905,7 @@
             "id": 1103497752,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T22:45:17Z",
+            "last_commit": "2026-09-15T09:36:22Z",
             "open_issues": 2,
             "owner": "GeiserX",
             "repo": "Telegram-Archive",
@@ -3079,7 +3079,7 @@
             "open_issues": 172,
             "owner": "littlebearapps",
             "repo": "untether",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -3209,6 +3209,41 @@
             ]
           },
           "first_seen": "2026-09-01T05:43:14.362Z"
+        },
+        {
+          "node_type": "item",
+          "title": "teleping",
+          "description": "Production observability for Node.js/TypeScript: structured alerts, smart batching, quiet hours, and components (card/table/progress/checklist) — zero dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "like console.log but it arrives on your phone. telegram alerts for vibe coders — 1 import, 5 functions, zero deps.",
+            "homepage": null,
+            "id": 1194565960,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-04-03T18:00:37Z",
+            "open_issues": 0,
+            "owner": "yerdaulet-damir",
+            "repo": "teleping",
+            "stars": 4,
+            "topics": [
+              "alerts",
+              "alerts-bot",
+              "developer-tools",
+              "error-tracking",
+              "nextjs",
+              "notifications",
+              "solo-developer",
+              "stripe-webhook",
+              "telegram",
+              "vercel",
+              "vibe-coding",
+              "webhook",
+              "zero-dependencies"
+            ]
+          },
+          "first_seen": "2026-08-28T12:15:47.616Z"
         },
         {
           "node_type": "item",
@@ -3348,7 +3383,7 @@
             "id": 1328531505,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-14T14:51:52Z",
+            "last_commit": "2026-09-15T17:07:43Z",
             "open_issues": 5,
             "owner": "awdr74100",
             "repo": "telegram-forwarder",
@@ -3367,41 +3402,6 @@
             ]
           },
           "first_seen": "2026-08-31T06:15:21.468Z"
-        },
-        {
-          "node_type": "item",
-          "title": "teleping",
-          "description": "Production observability for Node.js/TypeScript: structured alerts, smart batching, quiet hours, and components (card/table/progress/checklist) — zero dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "like console.log but it arrives on your phone. telegram alerts for vibe coders — 1 import, 5 functions, zero deps.",
-            "homepage": null,
-            "id": 1194565960,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-04-03T18:00:37Z",
-            "open_issues": 0,
-            "owner": "yerdaulet-damir",
-            "repo": "teleping",
-            "stars": 3,
-            "topics": [
-              "alerts",
-              "alerts-bot",
-              "developer-tools",
-              "error-tracking",
-              "nextjs",
-              "notifications",
-              "solo-developer",
-              "stripe-webhook",
-              "telegram",
-              "vercel",
-              "vibe-coding",
-              "webhook",
-              "zero-dependencies"
-            ]
-          },
-          "first_seen": "2026-08-28T12:15:47.616Z"
         },
         {
           "node_type": "item",
@@ -3637,7 +3637,7 @@
             "open_issues": 6,
             "owner": "grammyjs",
             "repo": "awesome-grammY",
-            "stars": 280,
+            "stars": 281,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3651,7 +3651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T05:26:26.021Z",
+    "last_updated": "2026-09-16T05:19:39.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection great groups, channels, bots and libraries for Telegram",
@@ -3660,10 +3660,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-11T20:32:50Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "ebertti",
       "repo": "awesome-telegram",
-      "stars": 5815,
+      "stars": 5817,
       "topics": [
         "awesome-list",
         "telegram"
