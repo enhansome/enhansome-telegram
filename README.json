@@ -15,11 +15,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T05:32:14Z",
-            "open_issues": 8204,
+            "last_commit": "2026-09-22T05:25:20Z",
+            "open_issues": 8309,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 390163,
+            "stars": 390230,
             "topics": [
               "ai",
               "assistant",
@@ -79,11 +79,11 @@
             "id": 1172886754,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-18T16:42:42Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-21T19:10:24Z",
+            "open_issues": 2,
             "owner": "aeonfun",
             "repo": "aeon",
-            "stars": 743,
+            "stars": 750,
             "topics": [
               "agent-framework",
               "agents",
@@ -905,11 +905,11 @@
                     "id": 38696925,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-20T22:42:58Z",
+                    "last_commit": "2026-09-22T05:07:45Z",
                     "open_issues": 29,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29483,
+                    "stars": 29487,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -936,7 +936,7 @@
                     "open_issues": 1,
                     "owner": "LonamiWebs",
                     "repo": "Telethon",
-                    "stars": 12057,
+                    "stars": 12056,
                     "topics": [
                       "hacktoberfest",
                       "library",
@@ -961,11 +961,11 @@
                     "id": 38095954,
                     "language": "Python",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-09-19T18:53:38Z",
+                    "last_commit": "2026-09-21T19:05:27Z",
                     "open_issues": 2,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8781,
+                    "stars": 8782,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -992,7 +992,7 @@
                     "open_issues": 81,
                     "owner": "aiogram",
                     "repo": "aiogram",
-                    "stars": 5866,
+                    "stars": 5867,
                     "topics": [
                       "aiogram",
                       "asyncio",
@@ -1190,8 +1190,8 @@
                     "id": 957345363,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-21T04:55:44Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-09-22T05:23:49Z",
+                    "open_issues": 0,
                     "owner": "ErisPulse",
                     "repo": "ErisPulse",
                     "stars": 57,
@@ -1310,7 +1310,7 @@
                     "id": 1238432054,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-21T05:02:37Z",
+                    "last_commit": "2026-09-21T13:07:28Z",
                     "open_issues": 0,
                     "owner": "GoyGram",
                     "repo": "GoyGram",
@@ -1478,7 +1478,7 @@
                     "open_issues": 25,
                     "owner": "grammyjs",
                     "repo": "grammY",
-                    "stars": 3749,
+                    "stars": 3747,
                     "topics": [
                       "bot",
                       "deno",
@@ -1542,7 +1542,7 @@
                     "open_issues": 20,
                     "owner": "mtcute",
                     "repo": "mtcute",
-                    "stars": 562,
+                    "stars": 563,
                     "topics": [
                       "bun",
                       "deno",
@@ -1570,7 +1570,7 @@
                     "open_issues": 27,
                     "owner": "enricostara",
                     "repo": "telegram.link",
-                    "stars": 333,
+                    "stars": 332,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:15:47.616Z"
@@ -1622,7 +1622,7 @@
                     "open_issues": 1,
                     "owner": "MTKruto",
                     "repo": "MTKruto",
-                    "stars": 174,
+                    "stars": 175,
                     "topics": [
                       "bun",
                       "deno",
@@ -1931,11 +1931,11 @@
                     "id": 61838413,
                     "language": "PHP",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-20T13:57:35Z",
+                    "last_commit": "2026-09-21T21:24:06Z",
                     "open_issues": 75,
                     "owner": "danog",
                     "repo": "MadelineProto",
-                    "stars": 3518,
+                    "stars": 3519,
                     "topics": [
                       "amphp",
                       "async",
@@ -2038,7 +2038,7 @@
                     "open_issues": 4,
                     "owner": "nutgram",
                     "repo": "nutgram",
-                    "stars": 749,
+                    "stars": 750,
                     "topics": [
                       "api",
                       "bot-framework",
@@ -2164,7 +2164,7 @@
                     "open_issues": 66,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4634,
+                    "stars": 4635,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:15:47.616Z"
@@ -2181,8 +2181,8 @@
                     "id": 312623308,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T12:23:08Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-09-21T07:22:43Z",
+                    "open_issues": 15,
                     "owner": "gotd",
                     "repo": "td",
                     "stars": 2345,
@@ -2279,7 +2279,7 @@
                     "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5517,
+                    "stars": 5515,
                     "topics": [
                       "java",
                       "java-library",
@@ -2409,7 +2409,7 @@
                 {
                   "node_type": "item",
                   "title": "Universal-Arduino-Telegram-Bot",
-                  "description": "A Arduino Telegram Bot API.",
+                  "description": "An Arduino Telegram Bot API.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2422,7 +2422,7 @@
                     "open_issues": 168,
                     "owner": "witnessmenow",
                     "repo": "Universal-Arduino-Telegram-Bot",
-                    "stars": 1231,
+                    "stars": 1232,
                     "topics": [
                       "arduino",
                       "telegram",
@@ -2434,7 +2434,7 @@
                 {
                   "node_type": "item",
                   "title": "tgbot-cpp",
-                  "description": "C++ library for Telegram bot API.",
+                  "description": "C++ library for Telegram Bot API.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2488,6 +2488,35 @@
                     ]
                   },
                   "first_seen": "2026-08-28T12:15:47.616Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Telegram Bot API",
+                  "description": "Modern C++17 library for the Telegram Bot API.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Schema-driven C++17 Telegram Bot API library with generated types, methods, JSON serialization, multipart uploads, and long polling runtime.",
+                    "homepage": null,
+                    "id": 1371181730,
+                    "language": "C++",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-21T16:23:50Z",
+                    "open_issues": 0,
+                    "owner": "OasisPioneer",
+                    "repo": "Telegram-Bot-API",
+                    "stars": 0,
+                    "topics": [
+                      "http",
+                      "http-client",
+                      "http-server",
+                      "https",
+                      "telegram",
+                      "telegrambot",
+                      "telegrambotapi"
+                    ]
+                  },
+                  "first_seen": "2026-09-22T05:25:52.954Z"
                 }
               ],
               "description": null,
@@ -2659,7 +2688,7 @@
                     "id": 496567172,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-21T02:09:49Z",
+                    "last_commit": "2026-09-22T04:14:31Z",
                     "open_issues": 5,
                     "owner": "vendelieu",
                     "repo": "telegram-bot",
@@ -2934,8 +2963,8 @@
             "id": 1103497752,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-20T22:40:56Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-21T17:37:33Z",
+            "open_issues": 4,
             "owner": "GeiserX",
             "repo": "Telegram-Archive",
             "stars": 207,
@@ -3104,11 +3133,11 @@
             "id": 1152042352,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T21:47:11Z",
+            "last_commit": "2026-09-21T21:45:13Z",
             "open_issues": 173,
             "owner": "littlebearapps",
             "repo": "untether",
-            "stars": 68,
+            "stars": 69,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -3370,7 +3399,7 @@
             "id": 1127342290,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-19T13:25:38Z",
+            "last_commit": "2026-09-21T13:41:22Z",
             "open_issues": 1,
             "owner": "Avazbek22",
             "repo": "LinkDownloaderBotForGroups",
@@ -3412,7 +3441,7 @@
             "id": 1328531505,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-20T14:16:08Z",
+            "last_commit": "2026-09-21T23:26:48Z",
             "open_issues": 5,
             "owner": "awdr74100",
             "repo": "telegram-forwarder",
@@ -3431,6 +3460,35 @@
             ]
           },
           "first_seen": "2026-08-31T06:15:21.468Z"
+        },
+        {
+          "node_type": "item",
+          "title": "telethon-plus",
+          "description": "Self-hosted HTTP + MCP API wrapping a full Telegram user account via Telethon, with async jobs and generated Go/Python clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Your Telegram account, but it takes HTTP requests. Wraps Telethon — the real MTProto userbot client, not that neutered Bot API garbage — behind a JSON HTTP API and a Model Context Protocol endpoint.",
+            "homepage": "https://ciprian.51k.eu/docker-telethon-plus-your-telegram-as-an-http-api-and-mcp-server/",
+            "id": 1224683527,
+            "language": "Python",
+            "license": "WTFPL",
+            "last_commit": "2026-08-01T19:50:18Z",
+            "open_issues": 0,
+            "owner": "psyb0t",
+            "repo": "docker-telethon-plus",
+            "stars": 3,
+            "topics": [
+              "docker",
+              "http-api",
+              "mcp",
+              "mcp-server",
+              "telegram",
+              "telegram-automation",
+              "telethon"
+            ]
+          },
+          "first_seen": "2026-08-28T12:15:47.616Z"
         },
         {
           "node_type": "item",
@@ -3496,35 +3554,6 @@
               "telegram-proxy",
               "vpn",
               "vps"
-            ]
-          },
-          "first_seen": "2026-08-28T12:15:47.616Z"
-        },
-        {
-          "node_type": "item",
-          "title": "telethon-plus",
-          "description": "Self-hosted HTTP + MCP API wrapping a full Telegram user account via Telethon, with async jobs and generated Go/Python clients.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Your Telegram account, but it takes HTTP requests. Wraps Telethon — the real MTProto userbot client, not that neutered Bot API garbage — behind a JSON HTTP API and a Model Context Protocol endpoint.",
-            "homepage": "https://ciprian.51k.eu/docker-telethon-plus-your-telegram-as-an-http-api-and-mcp-server/",
-            "id": 1224683527,
-            "language": "Python",
-            "license": "WTFPL",
-            "last_commit": "2026-08-01T19:50:18Z",
-            "open_issues": 0,
-            "owner": "psyb0t",
-            "repo": "docker-telethon-plus",
-            "stars": 2,
-            "topics": [
-              "docker",
-              "http-api",
-              "mcp",
-              "mcp-server",
-              "telegram",
-              "telegram-automation",
-              "telethon"
             ]
           },
           "first_seen": "2026-08-28T12:15:47.616Z"
@@ -3680,7 +3709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T05:32:23.821Z",
+    "last_updated": "2026-09-22T05:25:52.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection great groups, channels, bots and libraries for Telegram",
@@ -3688,17 +3717,17 @@
       "id": 62419944,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-16T16:47:00Z",
-      "open_issues": 10,
+      "last_commit": "2026-09-21T12:24:17Z",
+      "open_issues": 6,
       "owner": "ebertti",
       "repo": "awesome-telegram",
-      "stars": 5825,
+      "stars": 5828,
       "topics": [
         "awesome-list",
         "telegram"
       ]
     },
-    "original_repository_sha": "623d37aaeb94a84e49a1acc2016100161e422e33",
+    "original_repository_sha": "6fdf6eb52ba0aaa5ff7b50777483986a2a1689ff",
     "enhanced_repository": "enhansome/enhansome-telegram",
     "enhanced_repository_description": null,
     "title": "Awesome Telegram with stars"
