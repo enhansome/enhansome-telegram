@@ -15,11 +15,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T05:10:12Z",
-            "open_issues": 9166,
+            "last_commit": "2026-10-03T05:48:05Z",
+            "open_issues": 9140,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 391195,
+            "stars": 391197,
             "topics": [
               "ai",
               "assistant",
@@ -2942,8 +2942,8 @@
             "id": 1103497752,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T05:10:59Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-03T05:44:53Z",
+            "open_issues": 0,
             "owner": "GeiserX",
             "repo": "Telegram-Archive",
             "stars": 216,
@@ -3709,7 +3709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:12:00.494Z",
+    "last_updated": "2026-10-03T05:48:06.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection great groups, channels, bots and libraries for Telegram",

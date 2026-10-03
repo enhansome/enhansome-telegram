@@ -40,7 +40,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 
 ## Bots
 
-* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 391,195 | 🐛 9,166 | 🌐 TypeScript | 📅 2026-10-03 – Self-hosted AI assistant that connects Claude to Telegram (and 7 other channels) from a single deployment. Supports hooks, plugins, and tools. Telegram setup: <https://clawdbot.blog/channels/telegram/>
+* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 391,197 | 🐛 9,140 | 🌐 TypeScript | 📅 2026-10-03 – Self-hosted AI assistant that connects Claude to Telegram (and 7 other channels) from a single deployment. Supports hooks, plugins, and tools. Telegram setup: <https://clawdbot.blog/channels/telegram/>
 * [TikTok Live Recorder | TikRec](https://t.me/tikrec_live_bot) – [Open Source](https://github.com/Michele0303/tiktok-live-recorder) ⭐ 914 | 🐛 139 | 🌐 Python | 📅 2026-08-12 bot that records TikTok live streams and delivers the MP4 to your Telegram chat. Free, with a public archive at [tikrec.com](https://tikrec.com).
 * [Aeon](https://github.com/aeonfun/aeon) ⭐ 759 | 🐛 2 | 🌐 Shell | 📅 2026-10-03 – [Open Source](https://github.com/aeonfun/aeon) ⭐ 759 | 🐛 2 | 🌐 Shell | 📅 2026-10-03 autonomous AI agent framework, self-hosted under MIT, that reports to Telegram with interactive inline buttons and inbound command routing via webhook and long-polling.
 * [@MiddlemanBot](https://t.me/MiddlemanBot) – [Open Source](https://github.com/n1try/telegram-middleman-bot) ⚠️ Archived - Message broker bot to translate HTTP calls into Telegram messages.
@@ -325,7 +325,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 
 * [telegram-send](https://github.com/rahiel/telegram-send) ⭐ 1,016 | 🐛 22 | 🌐 Python | 📅 2026-05-19 – Send messages and files over Telegram from the command-line.
 * [Maltego Telegram](https://github.com/vognik/maltego-telegram) ⭐ 572 | 🐛 3 | 🌐 Python | 📅 2026-01-27 – Rich Set of Entities & Transforms for OSINT on Telegram with Maltego
-* [Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) ⭐ 216 | 🐛 1 | 🌐 Python | 📅 2026-10-03 – Docker-based tool for archiving Telegram channels and groups with full media support, incremental backups, and a local web viewer.
+* [Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) ⭐ 216 | 🐛 0 | 🌐 Python | 📅 2026-10-03 – Docker-based tool for archiving Telegram channels and groups with full media support, incremental backups, and a local web viewer.
 * [telegram-id](https://github.com/GabrielRF/telegram-id) ⭐ 208 | 🐛 0 | 📅 2022-02-24 – Guide on how to get Telegram IDs
 * [OpenPaw](https://github.com/daxaur/openpaw) ⭐ 172 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-23 – Open-source CLI tool (`npx pawmode`) with a built-in Telegram bridge to chat with Claude from your phone. Includes 38 skills covering email, calendar, Spotify, smart home, GitHub, Slack and more.
 * [shell2telegram](https://github.com/msoap/shell2telegram) ⭐ 168 | 🐛 0 | 🌐 Go | 📅 2025-08-22 – Telegram bot constructor from command-line.
