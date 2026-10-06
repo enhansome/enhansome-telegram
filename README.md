@@ -40,7 +40,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 
 ## Bots
 
-* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 391,468 | 🐛 9,406 | 🌐 TypeScript | 📅 2026-10-06 – Self-hosted AI assistant that connects Claude to Telegram (and 7 other channels) from a single deployment. Supports hooks, plugins, and tools. Telegram setup: <https://clawdbot.blog/channels/telegram/>
+* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 391,485 | 🐛 9,432 | 🌐 TypeScript | 📅 2026-10-06 – Self-hosted AI assistant that connects Claude to Telegram (and 7 other channels) from a single deployment. Supports hooks, plugins, and tools. Telegram setup: <https://clawdbot.blog/channels/telegram/>
 * [TikTok Live Recorder | TikRec](https://t.me/tikrec_live_bot) – [Open Source](https://github.com/Michele0303/tiktok-live-recorder) ⭐ 915 | 🐛 139 | 🌐 Python | 📅 2026-08-12 bot that records TikTok live streams and delivers the MP4 to your Telegram chat. Free, with a public archive at [tikrec.com](https://tikrec.com).
 * [Aeon](https://github.com/aeonfun/aeon) ⭐ 766 | 🐛 0 | 🌐 Shell | 📅 2026-10-05 – [Open Source](https://github.com/aeonfun/aeon) ⭐ 766 | 🐛 0 | 🌐 Shell | 📅 2026-10-05 autonomous AI agent framework, self-hosted under MIT, that reports to Telegram with interactive inline buttons and inbound command routing via webhook and long-polling.
 * [@MiddlemanBot](https://t.me/MiddlemanBot) – [Open Source](https://github.com/n1try/telegram-middleman-bot) ⚠️ Archived - Message broker bot to translate HTTP calls into Telegram messages.
@@ -234,7 +234,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 
 #### Javascript/Typescript/Node
 
-* [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,210 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-07 – Telegram Bot API for Node.js
+* [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,209 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-07 – Telegram Bot API for Node.js
 * [Telegraf](https://github.com/telegraf/telegraf) ⭐ 9,197 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-24 – Telegram bot framework (JavaScript, Typescript, Node.js)
 * [grammY](https://github.com/grammyjs/grammY) ⭐ 3,763 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-01 – The Telegram Bot Framework. (JavaScript, Typescript, Node.js)
 * [@mtproto/core](https://github.com/alik0211/mtproto-core) ⚠️ Archived – Telegram API (MTProto) client library for browser and nodejs
@@ -263,7 +263,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [php-telegram-bot](https://github.com/php-telegram-bot/core) ⭐ 4,016 | 🐛 84 | 🌐 PHP | 📅 2025-03-20 – PHP Telegram Bot based on the official Telegram Bot API
 * [MadeLineProto](https://github.com/danog/MadelineProto) ⭐ 3,527 | 🐛 75 | 🌐 PHP | 📅 2026-10-04 – Async PHP client/server API for the telegram MTProto protocol.
 * [telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,301 | 🐛 29 | 🌐 PHP | 📅 2026-08-20 – Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box
-* [TelegramBot/Api](https://github.com/TelegramBot/Api) ⭐ 1,195 | 🐛 65 | 🌐 PHP | 📅 2025-07-10 – Native PHP Wrapper for Telegram BOT API
+* [TelegramBot/Api](https://github.com/TelegramBot/Api) ⭐ 1,196 | 🐛 65 | 🌐 PHP | 📅 2025-07-10 – Native PHP Wrapper for Telegram BOT API
 * [Nutgram](https://github.com/SergiX44/Nutgram) ⭐ 753 | 🐛 5 | 🌐 PHP | 📅 2026-10-04 – Fast, powerful and Laravel friendly PHP library to build from simple to the most complex Telegram bots
 * [Tg-bot-api](https://github.com/tg-bot-api/bot-api-base) ⭐ 222 | 🐛 3 | 🌐 PHP | 📅 2022-05-17 – Simple PHP Wrapper for Telegram BOT API, based on PSR-18 http-client
 * [Quiec/Boting](https://github.com/quiec/Boting) ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2020-08-15 – Very basic and easy PHP Wrapper for Telegram BOT API
@@ -307,7 +307,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 
 #### Crystal
 
-* [Tourmaline](https://github.com/watzon/tourmaline) ⭐ 166 | 🐛 7 | 🌐 Crystal | 📅 2025-11-14 – Batteries included Telegram bot API wrapper for Crystal
+* [Tourmaline](https://github.com/watzon/tourmaline) ⭐ 167 | 🐛 7 | 🌐 Crystal | 📅 2025-11-14 – Batteries included Telegram bot API wrapper for Crystal
 
 #### Dart
 

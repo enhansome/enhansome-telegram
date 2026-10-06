@@ -15,11 +15,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T06:52:44Z",
-            "open_issues": 9406,
+            "last_commit": "2026-10-06T10:46:56Z",
+            "open_issues": 9432,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 391468,
+            "stars": 391485,
             "topics": [
               "ai",
               "assistant",
@@ -936,7 +936,7 @@
                     "open_issues": 1,
                     "owner": "LonamiWebs",
                     "repo": "Telethon",
-                    "stars": 12064,
+                    "stars": 12063,
                     "topics": [
                       "hacktoberfest",
                       "library",
@@ -1418,7 +1418,7 @@
                     "open_issues": 1,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9210,
+                    "stars": 9209,
                     "topics": [
                       "api",
                       "bot",
@@ -2012,7 +2012,7 @@
                     "open_issues": 65,
                     "owner": "TelegramBot",
                     "repo": "Api",
-                    "stars": 1195,
+                    "stars": 1196,
                     "topics": [
                       "api-wrapper",
                       "bot-api",
@@ -2769,7 +2769,7 @@
                     "open_issues": 7,
                     "owner": "protoncr",
                     "repo": "tourmaline",
-                    "stars": 166,
+                    "stars": 167,
                     "topics": [
                       "bot",
                       "crystal",
@@ -3128,12 +3128,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Code from anywhere — Telegram bridge for AI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp). Stream progress, approve actions, and send tasks by voice from your phone.",
+            "description": "Code from anywhere — Telegram bridge for AI coding agents (Claude Code, Codex, OpenCode, Pi). Stream progress, approve actions, and send tasks by voice from your phone.",
             "homepage": "https://untether.cc",
             "id": 1152042352,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T06:52:43Z",
+            "last_commit": "2026-10-06T08:02:02Z",
             "open_issues": 206,
             "owner": "littlebearapps",
             "repo": "untether",
@@ -3147,7 +3147,6 @@
               "codex-cli",
               "coding-assistant",
               "developer-tools",
-              "gemini-cli",
               "opencode",
               "pi",
               "python",
@@ -3537,7 +3536,7 @@
             "last_commit": "2026-04-26T18:42:02Z",
             "open_issues": 0,
             "owner": "vdistortion",
-            "repo": "mtproto-manager",
+            "repo": "mtproto-web-proxy-manager",
             "stars": 2,
             "topics": [
               "bash",
@@ -3709,7 +3708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T06:53:20.063Z",
+    "last_updated": "2026-10-06T10:47:14.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection great groups, channels, bots and libraries for Telegram",
@@ -3718,10 +3717,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-21T12:24:17Z",
-      "open_issues": 27,
+      "open_issues": 28,
       "owner": "ebertti",
       "repo": "awesome-telegram",
-      "stars": 5957,
+      "stars": 5959,
       "topics": [
         "awesome-list",
         "telegram"
