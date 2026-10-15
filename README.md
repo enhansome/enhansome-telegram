@@ -40,9 +40,9 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 
 ## Bots
 
-* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 391,930 | 🐛 9,598 | 🌐 TypeScript | 📅 2026-10-14 – Self-hosted AI assistant that connects Claude to Telegram (and 7 other channels) from a single deployment. Supports hooks, plugins, and tools. Telegram setup: <https://clawdbot.blog/channels/telegram/>
-* [TikTok Live Recorder | TikRec](https://t.me/tikrec_live_bot) – [Open Source](https://github.com/Michele0303/tiktok-live-recorder) ⭐ 918 | 🐛 140 | 🌐 Python | 📅 2026-08-12 bot that records TikTok live streams and delivers the MP4 to your Telegram chat. Free, with a public archive at [tikrec.com](https://tikrec.com).
-* [Aeon](https://github.com/aeonfun/aeon) ⭐ 773 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-14 – [Open Source](https://github.com/aeonfun/aeon) ⭐ 773 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-14 autonomous AI agent framework, self-hosted under MIT, that reports to Telegram with interactive inline buttons and inbound command routing via webhook and long-polling.
+* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 392,047 | 🐛 9,560 | 🌐 TypeScript | 📅 2026-10-15 – Self-hosted AI assistant that connects Claude to Telegram (and 7 other channels) from a single deployment. Supports hooks, plugins, and tools. Telegram setup: <https://clawdbot.blog/channels/telegram/>
+* [TikTok Live Recorder | TikRec](https://t.me/tikrec_live_bot) – [Open Source](https://github.com/Michele0303/tiktok-live-recorder) ⭐ 917 | 🐛 140 | 🌐 Python | 📅 2026-08-12 bot that records TikTok live streams and delivers the MP4 to your Telegram chat. Free, with a public archive at [tikrec.com](https://tikrec.com).
+* [Aeon](https://github.com/aeonfun/aeon) ⭐ 774 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-14 – [Open Source](https://github.com/aeonfun/aeon) ⭐ 774 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-14 autonomous AI agent framework, self-hosted under MIT, that reports to Telegram with interactive inline buttons and inbound command routing via webhook and long-polling.
 * [@MiddlemanBot](https://t.me/MiddlemanBot) – [Open Source](https://github.com/n1try/telegram-middleman-bot) ⚠️ Archived - Message broker bot to translate HTTP calls into Telegram messages.
 * [@demo\_aiogramshopbot](https://t.me/demo_aiogramshopbot) – [Open Source](https://github.com/ilyarolf/AiogramShopBot) ⭐ 244 | 🐛 1 | 🌐 Python | 📅 2026-08-31 Telegram shop bot built with Aiogram 3, supporting digital and physical product sales, cryptocurrency payments (BTC, ETH, LTC, SOL, BNB, USDT), referral system and web admin panel.
 * [@m00dbot](https://t.me/m00dbot) – [Open Source](https://github.com/dizballanze/m00dbot) ⭐ 228 | 🐛 2 | 🌐 Python | 📅 2021-04-01 bot for self-testing of anxiety and depression.
@@ -65,7 +65,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [AskePub](https://github.com/GeiserX/AskePub) ⚠️ Archived – Open-source bot that uses GPT-4o to generate AI study notes from ePub books.
 * [Media Downloader Bot](https://github.com/Mazonia/media-downloader-bot) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-06 – Self-hosted Telegram bot for downloading user-authorized social media videos and audio with an intelligent 100MB pre-download size guard.
 * [@my\_weight\_goal\_bot](https://t.me/my_weight_goal_bot) – [Apache-2.0 open-source](https://github.com/IgorShadurin/weight-telegram-bot) ⭐ 1 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-07 group bot for photo-backed weekly weight goals, charts, reminders, and 53 achievements in nine languages.
-* [PC Remote Sentinel](https://github.com/Mazonia/pc-controller-bot) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-10 – Open-source Telegram bot for Windows PC remote control, diagnostics, screen recording, webcam surveillance, TTS, and process management.
+* [PC Remote Sentinel](https://github.com/Mazonia/pc-controller-bot) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-14 – Open-source Telegram bot for Windows PC remote control, diagnostics, screen recording, webcam surveillance, TTS, and process management.
 * [Product Expiry Bot](https://github.com/Mazonia/product-expiry-bot) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-06 – AI-powered Telegram bot tracking grocery expirations, medication schedules, recurring bills, and warranty renewals with automated alerts.
 * [@AwakariBit](https://t.me/AwakariBot) – [Open Source](https://github.com/awakari/bot-telegram) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2025-08-28 bot for reading the real-time search results from various sources.
 * [C3Poh](https://github.com/andyuninvited/c3poh_for_claudecode) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-03-17 – Telegram bridge that lets you DM your Claude Code AI agent from your phone and receive responses.
@@ -73,7 +73,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@ProzzoroUkraineBot](https://t.me/ProzzoroUkraineBot) – [Open Source](https://github.com/vovasik07/zakupvarta) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-13 monitors Ukrainian Prozorro procurements and sends matching tender and material-change alerts in Ukrainian.
 * [@AccountCreatedBot](https://t.me/AccountCreatedBot) – Get Telegram account information and estimated creation dates using various methods.
 * [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to.
-* [@AnonInbox](https://t.me/AnonInboxBot) – Receive anonymous messages from anyone on Telegram; honest feedback without revealing who asked. Web mini app with per-user stats, public answers, and shareable story cards. Multi-language (EN/RU/ES/PT).
+* [@AnonInbox](https://t.me/AnonInboxBot) – Receive anonymous messages through a personal Telegram link and share public answers as story cards.
 * [@AnonInboxProBot](https://t.me/AnonInboxProBot?start=awesome) – Anonymous inbox that collects messages sent through a personal link. Free tier, one-time 150 Stars Pro upgrade, Mini App included.
 * [@AnonSayProBot](https://t.me/AnonSayProBot?start=awesome) – Post anonymously into a Telegram group through the bot.
 * [@AsyncStandupBot](https://t.me/AsyncStandupBot?start=awesome) – Async daily standup: the bot DMs 3 questions, then posts one compiled report to the group.
@@ -105,6 +105,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@GroupPulseProBot](https://t.me/GroupPulseProBot?start=awesome) – Activity stats for Telegram groups — counts messages, never content.
 * [@GTDBrainBot](https://t.me/GTDBrainBot?start=awesome-telegram) – Capture bot for the [GTD Brain](https://gtdbrain.com/connect/telegram?source=awesome-telegram) Getting Things Done board: any message or voice note becomes an Inbox card, and /next, /waiting, /inbox and /projects read your lists back.
 * [@HabitStreakProBot](https://t.me/HabitStreakProBot?start=awesome) – Tracks daily habit check-ins and streaks. Free tier, one-time 150 Stars Pro upgrade, Mini App included.
+* [@HostDeFiBot](https://t.me/HostDeFiBot) – Non-custodial Solana trading bot with a Mini App — Jupiter-routed swaps, copy trading and autosell, by HostDeFi (hostdefi.com).
 * [@IcebreakerDailyBot](https://t.me/IcebreakerDailyBot?start=awesome) – One conversation-starter a day, posted to the group automatically.
 * [@IgGramBot](https://t.me/IgGramBot?start=invite_github) – IgGramBot is a bot that helps you download Instagram videos, photos, IGTV, Reels, Stories & Highlights Instagram from Telegram.
 * [@image\_to\_text\_free\_bot](https://t.me/image_to_text_free_bot?start=awesome) – OCR bot: photo, screenshot, scan or PDF to editable text with formatting kept; summary on request, export to TXT/DOCX/PDF.
@@ -135,6 +136,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@ResizerTool\_bot](https://t.me/ResizerTool_bot) – bot for resize any image easier
 * [@RestrictedSaverRobot](https://t.me/RestrictedSaverRobot) – Bot that can save various Telegram files from restricted chats, channels, groups, and bots. Supports files up to 4GB.
 * [@SantaDrawProBot](https://t.me/SantaDrawProBot?start=awesome) – Secret Santa for a Telegram group: join, draw, and matches sent by DM.
+* [@SaveContent\_resRoBot](https://t.me/SaveContent_resRoBot) – Saves posts and stories from channels that restrict saving, and keeps deleted, edited and view-once messages through Chat Automation.
 * [@scoutr\_ai\_bot](https://t.me/scoutr_ai_bot) – Real-time apartment listing alerts in Israel from Yad2, Madlan, and Facebook groups. Free.
 * [@selfmailbot](https://t.me/selfmailbot) — Forwards all messages to your inbox. For GTD geeks.
 * [Shopping List](https://t.me/SmartShoppingListBot) – AI-powered Telegram bot for shopping lists where users can add items by text or voice in free form, closed-source, supports 10 languages.
@@ -152,7 +154,9 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@TickMyPriceBot](https://t.me/TickMyPriceBot?start=awesome) – Crypto price alerts: set a coin and a target level, and get pinged when the market crosses it, plus live prices and charts. Free tier, one-time 150 Stars Pro upgrade, Mini App included.
 * [@TikTapSaveBot](https://t.me/TikTapSaveBot) – Downloads TikTok, Instagram and X videos in HD right inside Telegram, and works inline.
 * [@TimeSheetProBot](https://t.me/TimeSheetProBot?start=awesome) – Clock in/out or log hours by DM, totaled per client.
+* [@TinyTelegramToolsBot](https://t.me/TinyTelegramToolsBot?start=awesome) – Suite of anonymous messages, reminders, bill splitting and habit-tracking Mini Apps.
 * [@TriviaDailyProBot](https://t.me/TriviaDailyProBot?start=awesome) – One daily trivia question as a native quiz poll, with a weekly group leaderboard.
+* [@TvHub\_Bot](https://t.me/TvHub_Bot) – Executes crypto trading signals that you forward from Telegram channels on the exchange accounts you connect in [TV-Hub](https://www.tv-hub.org/).
 * [@TyzenhausBot](https://t.me/TyzenhausBot) – shared expenses tracking bot.
 * [@Unlock2Link\_bot](https://t.me/Unlock2Link_bot) – is a bot to shorten links and set up challenges like subscribe or follow social media accounts to unlock the link
 * [@userid\_checkbot](https://t.me/userid_checkbot) – Instantly find your Telegram User ID, Chat ID, or Channel ID. Also available at [telegramuserid.com](https://telegramuserid.com).
@@ -230,10 +234,10 @@ In all inline bots, you need to enter @botname, type words and wait for response
 
 #### Python
 
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,519 | 🐛 33 | 🌐 Python | 📅 2026-10-11 – We have made you a wrapper you can't refuse
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,514 | 🐛 33 | 🌐 Python | 📅 2026-10-11 – We have made you a wrapper you can't refuse
 * [telethon](https://github.com/LonamiWebs/Telethon) ⚠️ Archived – Pure Python 3 MTProto API Telegram client library, for bots too!
-* [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) ⭐ 8,787 | 🐛 3 | 🌐 Python | 📅 2026-09-21 – A simple, but extensible Python implementation
-* [AIOGram](https://github.com/aiogram/aiogram) ⭐ 5,892 | 🐛 63 | 🌐 Python | 📅 2026-10-11 – A pretty simple and fully asynchronous framework for Telegram Bot API.
+* [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) ⭐ 8,786 | 🐛 4 | 🌐 Python | 📅 2026-09-21 – A simple, but extensible Python implementation
+* [AIOGram](https://github.com/aiogram/aiogram) ⭐ 5,892 | 🐛 64 | 🌐 Python | 📅 2026-10-11 – A pretty simple and fully asynchronous framework for Telegram Bot API.
 * [pyrogram](https://github.com/pyrogram/pyrogram) ⚠️ Archived – Telegram MTProto API Python client library framework for users and bots.
 * [telepot](https://github.com/nickoala/telepot) ⚠️ Archived – Python framework for Telegram Bot API
 * [tgbot](https://github.com/PaulSonOfLars/tgbot) ⚠️ Archived – Modular telegram group management bot
@@ -243,7 +247,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [ErisPulse](https://github.com/ErisPulse/ErisPulse) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2026-10-14 – Async-first Python bot framework with Telegram support, unified adapter interface, and plugin system; also supports multiple other platforms.
 * [Teledigest](https://github.com/igoropaniuk/teledigest) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2026-03-07 – A LLM-driven framework for building Telegram digest and channel-analysis bots.
 * [Folds](https://github.com/tm-a-t/folds) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2026-10-12 – An elegant and scalable framework for bots.
-* [GoyGram](https://github.com/GoyGram/GoyGram) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-10-11 – Unified Bot API + MTProto framework with a Rust crypto/codec core.
+* [GoyGram](https://github.com/GoyGram/GoyGram) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-10-14 – Unified Bot API + MTProto framework with a Rust crypto/codec core.
 * [TeleGet](https://github.com/xwc9527/TeleGet) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2026-02-24 – High-speed Telegram file downloader SDK with multi-connection parallel downloading.
 * [Anystat](https://github.com/ivan-nechaev/anystat-python) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-16 – Privacy-first analytics SDK for aiogram 3 bots: auto-tracking, custom events and /start deep-link attribution.
 * [telegram-table-renderer](https://github.com/shali10/awesome-agent-skills/tree/main/packages/telegram-table-renderer) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-08 – Zero-dependency Python Markdown table formatter with CJK visual width compensation and mobile-friendly graceful degradation.
@@ -251,17 +255,17 @@ In all inline bots, you need to enter @botname, type words and wait for response
 
 #### Javascript/Typescript/Node
 
-* [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,211 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-07 – Telegram Bot API for Node.js
+* [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,210 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-07 – Telegram Bot API for Node.js
 * [Telegraf](https://github.com/telegraf/telegraf) ⭐ 9,201 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-24 – Telegram bot framework (JavaScript, Typescript, Node.js)
-* [grammY](https://github.com/grammyjs/grammY) ⭐ 3,766 | 🐛 28 | 🌐 TypeScript | 📅 2026-10-01 – The Telegram Bot Framework. (JavaScript, Typescript, Node.js)
+* [grammY](https://github.com/grammyjs/grammY) ⭐ 3,769 | 🐛 28 | 🌐 TypeScript | 📅 2026-10-01 – The Telegram Bot Framework. (JavaScript, Typescript, Node.js)
 * [@mtproto/core](https://github.com/alik0211/mtproto-core) ⚠️ Archived – Telegram API (MTProto) client library for browser and nodejs
-* [mtcute](https://github.com/mtcute/mtcute) ⭐ 569 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-07 – modern typescript library for mtproto
+* [mtcute](https://github.com/mtcute/mtcute) ⭐ 570 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-14 – modern typescript library for mtproto
 * [telegram.link](https://github.com/enricostara/telegram.link) ⭐ 332 | 🐛 27 | 🌐 JavaScript | 📅 2023-07-14 – Telegram API library (JavaScript, Node.js)
 * [GramIO](https://github.com/gramiojs/gramio) ⭐ 298 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-09 – Powerful, extensible and really type-safe Telegram Bot API framework
 * [MTKruto](https://github.com/MTKruto/MTKruto) ⭐ 174 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-13 – Cross-runtime JavaScript library for building Telegram clients.
 * [node-telegram-bot](https://github.com/depoio/node-telegram-bot) ⭐ 137 | 🐛 19 | 🌐 JavaScript | 📅 2016-11-03 – Client wrapper for Telegram Bot API (Under heavy development)
-* [tg-rich-messages](https://github.com/vdistortion/tg-rich-messages) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-17 – Platform-independent TypeScript builder for Telegram Rich Messages (HTML mode). Zero dependencies, fully typed, tree-shakeable.
-* [telegram-links](https://github.com/siteboss777-lgtm/telegram-links) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-17 – Builds and validates every t.me and tg:// link format Telegram documents — bot deep links, Mini App, share, phone, public and private posts — with zero dependencies and no network calls.
+* [tg-rich-messages](https://github.com/vdistortion/tg-rich-messages) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-17 – Platform-independent TypeScript builder for Telegram Rich Messages (HTML mode). Zero dependencies, fully typed, tree-shakeable.
+* [telegram-links](https://github.com/siteboss777-lgtm/telegram-links) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-14 – Builds and validates every t.me and tg:// link format Telegram documents — bot deep links, Mini App, share, phone, public and private posts — with zero dependencies and no network calls.
 
 #### .Net (C#)
 
@@ -279,7 +283,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 
 * [php-telegram-bot](https://github.com/php-telegram-bot/core) ⭐ 4,019 | 🐛 84 | 🌐 PHP | 📅 2025-03-20 – PHP Telegram Bot based on the official Telegram Bot API
 * [MadeLineProto](https://github.com/danog/MadelineProto) ⭐ 3,534 | 🐛 75 | 🌐 PHP | 📅 2026-10-07 – Async PHP client/server API for the telegram MTProto protocol.
-* [telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,299 | 🐛 29 | 🌐 PHP | 📅 2026-08-20 – Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box
+* [telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,300 | 🐛 29 | 🌐 PHP | 📅 2026-08-20 – Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box
 * [TelegramBot/Api](https://github.com/TelegramBot/Api) ⭐ 1,196 | 🐛 66 | 🌐 PHP | 📅 2025-07-10 – Native PHP Wrapper for Telegram BOT API
 * [Nutgram](https://github.com/SergiX44/Nutgram) ⭐ 755 | 🐛 5 | 🌐 PHP | 📅 2026-10-04 – Fast, powerful and Laravel friendly PHP library to build from simple to the most complex Telegram bots
 * [Tg-bot-api](https://github.com/tg-bot-api/bot-api-base) ⭐ 222 | 🐛 3 | 🌐 PHP | 📅 2022-05-17 – Simple PHP Wrapper for Telegram BOT API, based on PSR-18 http-client
@@ -288,17 +292,17 @@ In all inline bots, you need to enter @botname, type words and wait for response
 #### Go
 
 * [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) ⭐ 6,408 | 🐛 173 | 🌐 Go | 📅 2024-08-14 – Golang bindings for the Telegram Bot API.
-* [telebot](https://github.com/tucnak/telebot) ⭐ 4,633 | 🐛 66 | 🌐 Go | 📅 2026-06-16 – Telegram bot framework written in Go
-* [gotd](https://github.com/gotd/td) ⭐ 2,359 | 🐛 16 | 🌐 Go | 📅 2026-10-09 – Telegram client, in pure Go. (MTProto API)
+* [telebot](https://github.com/tucnak/telebot) ⭐ 4,632 | 🐛 66 | 🌐 Go | 📅 2026-06-16 – Telegram bot framework written in Go
+* [gotd](https://github.com/gotd/td) ⭐ 2,358 | 🐛 16 | 🌐 Go | 📅 2026-10-09 – Telegram client, in pure Go. (MTProto API)
 * [MTProto](https://github.com/xelaj/mtproto) ⭐ 1,352 | 🐛 33 | 🌐 Go | 📅 2024-03-13 – Full native implementation of Telegram Client API on pure Go.
 * [gotelebot](https://github.com/eternnoir/gotelebot) ⭐ 21 | 🐛 3 | 🌐 Go | 📅 2021-04-12 – Implementation for the Telegram Bot API.
 
 #### Java
 
-* [TelegramBots](https://github.com/rubenlagus/TelegramBots) ⭐ 5,534 | 🐛 194 | 🌐 Java | 📅 2026-10-13 – Java library to create bots using Telegram Bots API.
+* [TelegramBots](https://github.com/rubenlagus/TelegramBots) ⭐ 5,535 | 🐛 194 | 🌐 Java | 📅 2026-10-13 – Java library to create bots using Telegram Bots API.
 * [java-telegram-bot-api](https://github.com/pengrad/java-telegram-bot-api) ⭐ 1,960 | 🐛 7 | 🌐 Java | 📅 2026-09-26 – Telegram Bot API for Java.
 * [telegram-api](https://github.com/ex3ndr/telegram-api) ⭐ 142 | 🐛 47 | 🌐 Java | 📅 2017-04-18 – Telegram Api library for java.
-* [TelegramCode](https://github.com/olosegres/telegramcode) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-12 – Self-hosted bot to run OpenCode and Claude Code coding agents on your machine or VPS and drive them from Telegram by voice or text, one topic per project.
+* [TelegramCode](https://github.com/olosegres/telegramcode) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-14 – Self-hosted bot to run OpenCode and Claude Code coding agents on your machine or VPS and drive them from Telegram by voice or text, one topic per project.
 * [telegram-menu-library](https://github.com/AnyTimeTraveler/telegram-menu-library) ⚠️ Archived – Java library that makes creating and managing clickable menus easy ([demo](https://raw.githubusercontent.com/AnyTimeTraveler/telegram-menu-library/master/media/telegram_media_library_demo.gif)).
 
 #### C++
@@ -318,7 +322,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 #### Kotlin
 
 * [tgbotapi](https://github.com/InsanusMokrassar/TelegramBotAPI) ⭐ 443 | 🐛 15 | 🌐 Kotlin | 📅 2026-10-13 – Type-safe library for work with Telegram Bot API.
-* [KtGram](https://github.com/vendelieu/telegram-bot) ⭐ 249 | 🐛 5 | 🌐 Kotlin | 📅 2026-10-13 – Telegram Bot API wrapper with handy Kotlin DSL.
+* [KtGram](https://github.com/vendelieu/telegram-bot) ⭐ 249 | 🐛 4 | 🌐 Kotlin | 📅 2026-10-13 – Telegram Bot API wrapper with handy Kotlin DSL.
 * [kotlogram](https://github.com/badoualy/kotlogram) ⚠️ Archived – Easy to use and straightforward Kotlin (and Java) binding of Telegram API
 * [kotlin-telegram-bot](https://github.com/seik/kotlin-telegram-bot) ⭐ 2 | 🐛 0 | 📅 2020-04-30 – A wrapper for the Telegram Bot API written in Kotlin.
 
@@ -341,21 +345,22 @@ In all inline bots, you need to enter @botname, type words and wait for response
 ## Tools
 
 * [telegram-send](https://github.com/rahiel/telegram-send) ⭐ 1,015 | 🐛 21 | 🌐 Python | 📅 2026-05-19 – Send messages and files over Telegram from the command-line.
-* [Maltego Telegram](https://github.com/vognik/maltego-telegram) ⭐ 574 | 🐛 3 | 🌐 Python | 📅 2026-01-27 – Rich Set of Entities & Transforms for OSINT on Telegram with Maltego
-* [Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) ⭐ 225 | 🐛 1 | 🌐 Python | 📅 2026-10-13 – Self-hosted backup of a Telegram account's chats and media that keeps edits and deleted messages, with a local web viewer to read and search them.
+* [Maltego Telegram](https://github.com/vognik/maltego-telegram) ⭐ 574 | 🐛 2 | 🌐 Python | 📅 2026-10-14 – Rich Set of Entities & Transforms for OSINT on Telegram with Maltego
+* [Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) ⭐ 226 | 🐛 0 | 🌐 Python | 📅 2026-10-15 – Self-hosted backup of a Telegram account's chats and media that keeps edits and deleted messages, with a local web viewer to read and search them.
 * [telegram-id](https://github.com/GabrielRF/telegram-id) ⭐ 208 | 🐛 0 | 📅 2022-02-24 – Guide on how to get Telegram IDs
-* [tlgr](https://github.com/tlgrcli/tlgr) ⭐ 193 | 🐛 5 | 🌐 Python | 📅 2026-10-07 – Command-line client for a personal Telegram account, built for scripts and AI agents, with JSON output, a background daemon, and webhook event push.
+* [tlgr](https://github.com/tlgrcli/tlgr) ⭐ 193 | 🐛 5 | 🌐 Python | 📅 2026-10-14 – Command-line client for a personal Telegram account, built for scripts and AI agents, with JSON output, a background daemon, and webhook event push.
 * [OpenPaw](https://github.com/daxaur/openpaw) ⭐ 173 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-23 – Open-source CLI tool (`npx pawmode`) with a built-in Telegram bridge to chat with Claude from your phone. Includes 38 skills covering email, calendar, Spotify, smart home, GitHub, Slack and more.
 * [shell2telegram](https://github.com/msoap/shell2telegram) ⭐ 168 | 🐛 0 | 🌐 Go | 📅 2025-08-22 – Telegram bot constructor from command-line.
-* [Claude Telegram Supercharged](https://github.com/k1p1l0/claude-telegram-supercharged) ⭐ 136 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-13 – Drop-in upgrade for the official Claude Code Telegram plugin that adds voice transcription and replies, message history and memory, live tool progress, and a self-restarting daemon.
+* [Claude Telegram Supercharged](https://github.com/k1p1l0/claude-telegram-supercharged) ⭐ 137 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-13 – Drop-in upgrade for the official Claude Code Telegram plugin that adds voice transcription and replies, message history and memory, live tool progress, and a self-restarting daemon.
 * [telepipe](https://github.com/Linuxmaster14/telepipe) ⭐ 99 | 🐛 0 | 🌐 Shell | 📅 2026-09-06 – Lightweight Bash utility for piping command output to Telegram chats. Automatically switches between message and file modes based on content length.
-* [Teleton](https://github.com/TONresistor/teleton-agent) ⭐ 92 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-14 – Autonomous AI agent for Telegram with TON blockchain integration, 15 LLM providers, plugin SDK, and hybrid RAG memory. Self-hosted.
-* [Untether](https://github.com/littlebearapps/untether) ⭐ 72 | 🐛 136 | 🌐 Python | 📅 2026-10-14 – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
+* [Teleton](https://github.com/TONresistor/teleton-agent) ⭐ 93 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-14 – Autonomous AI agent for Telegram with TON blockchain integration, 15 LLM providers, plugin SDK, and hybrid RAG memory. Self-hosted.
+* [Untether](https://github.com/littlebearapps/untether) ⭐ 72 | 🐛 171 | 🌐 Python | 📅 2026-10-15 – Self-hosted bot bridging AI coding agents to Telegram with inline keyboards, voice transcription, real-time streaming, and file transfer.
 * [telegram-owl](https://github.com/beeyev/telegram-owl) ⭐ 59 | 🐛 0 | 🌐 Go | 📅 2026-09-27 – Send messages and files to Telegram chats and channels, directly from terminal. Lightweight tool written in Go.
-* [TMPlayer](https://github.com/dracu-lah/TMPlayer) ⭐ 29 | 🐛 1 | 🌐 HTML | 📅 2026-10-14 – Unofficial open source video player for Android TV, phones, Windows and Linux that streams the videos in your Telegram chats while they download.
-* [Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader) ⭐ 28 | 🐛 17 | 🌐 Python | 📅 2026-10-13 – Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics.
+* [TMPlayer](https://github.com/dracu-lah/TMPlayer) ⭐ 29 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-15 – Unofficial open source video player for Android TV, phones, Windows and Linux that streams the videos in your Telegram chats while they download.
+* [Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader) ⭐ 28 | 🐛 17 | 🌐 Python | 📅 2026-10-14 – Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics.
 * [Telebrief](https://github.com/belaytzev/Telebrief) ⭐ 23 | 🐛 11 | 🌐 Python | 📅 2026-10-13 – Self-hosted daily AI digests of your Telegram channels and groups delivered by your own bot, with OpenAI, Anthropic or local Ollama and an MCP endpoint for AI agents.
 * [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-09-28 – Self-hosted Telegram bot for receiving supported media as video, original files, or MP3.
+* [Telegram-Archive MCP](https://github.com/GeiserX/telegram-archive-mcp) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2026-10-05 – MCP server that lets LLMs search messages, browse chats and read archived Telegram history from a Telegram-Archive instance.
 * [tg-pane](https://github.com/34823/tg-pane) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-10 – Claude Code plugin that shows your Telegram chats and channels in a terminal pane and retells unread posts with AI summaries.
 * [BanOnExit](https://github.com/BotMaven/BanOnExit) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-12-11 – Automatically ban users who join and leave your Telegram groups or channels within a configurable time frame
 * [FlowCastle SDK](https://github.com/FlowCastle/flowcastle-sdk) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-30 – MIT middleware for grammY, Telegraf, aiogram and python-telegram-bot that adds a contact CRM, live chat, broadcasts, and conversion analytics to an existing bot.
@@ -377,6 +382,7 @@ In all inline bots, you need to enter @botname, type words and wait for response
 * [TeleV](https://telev.app) – Free app for Android TV and Google TV that plays videos and live streams from your Telegram channels, groups and chats with the TV remote.
 * [TGPy](https://tgpy.dev) – Run Python code in Telegram chats. Automate your messages and explore Telegram API
 * [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) – Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.
+* [TGScope Channel Network Checker](https://tgscope.io/tools/telegram-channel-network) – Shows which other Telegram channels list the same ad contact as a given channel, revealing networks run or sold by one owner or agency.
 * [Tiny Telegram Tools](https://tg.zovo.one) – Collection of 22 single-purpose Telegram Mini Apps (reminders, anonymous messages, bill splitting, habit tracking) with step-by-step guides in 7 languages.
 
 ## Skills
@@ -450,13 +456,14 @@ In all inline bots, you need to enter @botname, type words and wait for response
 
 * [Awesome DevOps Telegram](https://github.com/palark/awesome-devops-telegram) ⭐ 299 | 🐛 0 | 📅 2026-08-24 – A curated list of Telegram channels and groups dedicated to DevOps, SRE, and Platform Engineering in English.
 * [Awesome-grammY](https://github.com/grammyjs/awesome-grammY) ⭐ 283 | 🐛 7 | 📅 2026-07-27 – This is a curated list of projects that are using grammY.
-* [VPN Telegram Bots for Russia](https://github.com/wwewtech/vpn_telegram_2026) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11 – Catalog of 200+ working VPN Telegram bots for Russia: alphabetically sorted, no referral links, dead links checked weekly.
+* [VPN Telegram Bots for Russia](https://github.com/wwewtech/vpn_telegram_2026) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11 – Catalog of 200+ working VPN Telegram bots for Russia: alphabetically sorted, no referral links, dead links checked weekly.
 * [DirectoryTG](https://directorytg.com/) – Explore Premium Telegram Channels, Apps, Games, Bots, and Groups
 * [Gram News](https://gramnews.org/) – Telegram and TON news with a catalogue of channels, Mini Apps, emoji and sticker packs, collectible gifts and +888 numbers.
 * [statiko.io](https://statiko.io/) – Telegram public channel analytics and directory platform. Continuously monitors post editing and deletion, provides detailed statistics and insights for channels.
 * [TDirectory](https://tdirectory.me/) – Search popular Telegram Channels, Groups and Bots
 * [Telegram Grupos](https://www.telegram-grupos.com/) – Brazilian directory of verified Telegram groups, channels and bots, organized by category and city (PT/EN/ES).
 * [TG Hub](https://tghub.group/) – Directory of verified Telegram groups, channels and bots with live member stats and an official listing bot.
+* [TG Market](https://tgmarket.io/) – Search engine and database of 3.7M+ public Telegram channels with metrics, growth, ad history and post search, plus exports, a REST API and a hosted MCP server.
 * [TGboard](https://tgboard.com/en) – Multilingual directory for discovering Telegram channels, groups, bots, Mini Apps, and sticker packs.
 * [tgden](https://tgden.com/) – Catalog & search engine for Telegram: 1.2M+ channels, 245k+ group chats, 160k+ bots, stickers and a regional marketplace. Live subscriber stats, full-text search over posts, multilingual. Free, no login. Free REST API (no key, CORS-enabled) and a hosted MCP server for AI agents.
 * [TGMania](https://tgmania.com/) – Searchable directory of 70,000+ Telegram channels and groups by category, country and language, with a 0-10 quality score per channel and a free public JSON API.
@@ -502,4 +509,4 @@ In all inline bots, you need to enter @botname, type words and wait for response
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
