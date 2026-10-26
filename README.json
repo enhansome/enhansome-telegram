@@ -15,11 +15,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T05:21:30Z",
-            "open_issues": 7811,
+            "last_commit": "2026-10-26T05:23:34Z",
+            "open_issues": 7838,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 392973,
+            "stars": 393071,
             "topics": [
               "ai",
               "assistant",
@@ -79,8 +79,8 @@
             "id": 1172886754,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T23:50:07Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-25T08:00:08Z",
+            "open_issues": 5,
             "owner": "aeonfun",
             "repo": "aeon",
             "stars": 782,
@@ -237,7 +237,7 @@
             "open_issues": 7,
             "owner": "muety",
             "repo": "telegram-expense-bot",
-            "stars": 70,
+            "stars": 69,
             "topics": [
               "expense-tracker",
               "telegram",
@@ -1058,7 +1058,7 @@
                     "open_issues": 34,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29531,
+                    "stars": 29532,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -1110,11 +1110,11 @@
                     "id": 38095954,
                     "language": "Python",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-10-24T10:52:14Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-25T13:40:13Z",
+                    "open_issues": 4,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8790,
+                    "stars": 8791,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -1137,11 +1137,11 @@
                     "id": 111210856,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T23:55:36Z",
-                    "open_issues": 73,
+                    "last_commit": "2026-10-25T14:03:57Z",
+                    "open_issues": 74,
                     "owner": "aiogram",
                     "repo": "aiogram",
-                    "stars": 5903,
+                    "stars": 5907,
                     "topics": [
                       "aiogram",
                       "asyncio",
@@ -1170,7 +1170,7 @@
                     "open_issues": 279,
                     "owner": "pyrogram",
                     "repo": "pyrogram",
-                    "stars": 4616,
+                    "stars": 4617,
                     "topics": [
                       "async",
                       "client",
@@ -1200,7 +1200,7 @@
                     "open_issues": 107,
                     "owner": "nickoala",
                     "repo": "telepot",
-                    "stars": 2409,
+                    "stars": 2410,
                     "topics": [
                       "python",
                       "telegram",
@@ -1339,8 +1339,8 @@
                     "id": 957345363,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-25T05:16:37Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-10-26T02:35:05Z",
+                    "open_issues": 0,
                     "owner": "ErisPulse",
                     "repo": "ErisPulse",
                     "stars": 58,
@@ -1432,7 +1432,7 @@
                     "open_issues": 0,
                     "owner": "GoyGram",
                     "repo": "GoyGram",
-                    "stars": 23,
+                    "stars": 22,
                     "topics": [
                       "asyncio",
                       "bot-api",
@@ -1524,7 +1524,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-08T11:50:25Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "shali10",
                     "repo": "awesome-agent-skills",
                     "stars": 1,
@@ -1596,7 +1596,7 @@
                     "open_issues": 77,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9204,
+                    "stars": 9203,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -1692,7 +1692,7 @@
                     "open_issues": 20,
                     "owner": "mtcute",
                     "repo": "mtcute",
-                    "stars": 577,
+                    "stars": 578,
                     "topics": [
                       "bun",
                       "deno",
@@ -1980,7 +1980,7 @@
                     "open_issues": 1,
                     "owner": "atipugin",
                     "repo": "telegram-bot-ruby",
-                    "stars": 1425,
+                    "stars": 1426,
                     "topics": [
                       "ruby",
                       "telegram",
@@ -2054,7 +2054,7 @@
                     "open_issues": 84,
                     "owner": "php-telegram-bot",
                     "repo": "core",
-                    "stars": 4018,
+                    "stars": 4017,
                     "topics": [
                       "bot-api",
                       "hacktoberfest",
@@ -2081,8 +2081,8 @@
                     "id": 61838413,
                     "language": "PHP",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-24T14:38:21Z",
-                    "open_issues": 25,
+                    "last_commit": "2026-10-25T19:24:58Z",
+                    "open_issues": 28,
                     "owner": "danog",
                     "repo": "MadelineProto",
                     "stars": 3547,
@@ -2289,7 +2289,7 @@
                     "open_issues": 173,
                     "owner": "go-telegram-bot-api",
                     "repo": "telegram-bot-api",
-                    "stars": 6407,
+                    "stars": 6408,
                     "topics": [
                       "golang",
                       "hacktoberfest",
@@ -2314,7 +2314,7 @@
                     "open_issues": 66,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4628,
+                    "stars": 4629,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:15:47.616Z"
@@ -2335,7 +2335,7 @@
                     "open_issues": 15,
                     "owner": "gotd",
                     "repo": "td",
-                    "stars": 2367,
+                    "stars": 2368,
                     "topics": [
                       "bot-api",
                       "go",
@@ -2429,7 +2429,7 @@
                     "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5544,
+                    "stars": 5545,
                     "topics": [
                       "java",
                       "java-library",
@@ -2601,7 +2601,7 @@
                     "open_issues": 0,
                     "owner": "reo7sp",
                     "repo": "tgbot-cpp",
-                    "stars": 1193,
+                    "stars": 1192,
                     "topics": [
                       "bot",
                       "cpp",
@@ -2695,7 +2695,7 @@
                     "open_issues": 74,
                     "owner": "teloxide",
                     "repo": "teloxide",
-                    "stars": 4255,
+                    "stars": 4253,
                     "topics": [
                       "rust",
                       "telegram",
@@ -2752,7 +2752,7 @@
                     "open_issues": 11,
                     "owner": "ayrat555",
                     "repo": "frankenstein",
-                    "stars": 376,
+                    "stars": 377,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:15:47.616Z"
@@ -2842,7 +2842,7 @@
                     "id": 496567172,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-25T04:21:39Z",
+                    "last_commit": "2026-10-25T17:08:01Z",
                     "open_issues": 5,
                     "owner": "vendelieu",
                     "repo": "telegram-bot",
@@ -3002,7 +3002,7 @@
                     "open_issues": 7,
                     "owner": "Al-Muhandis",
                     "repo": "fp-telegram",
-                    "stars": 93,
+                    "stars": 95,
                     "topics": [
                       "freepascal",
                       "lazarus",
@@ -3163,7 +3163,7 @@
             "open_issues": 8,
             "owner": "tlgrcli",
             "repo": "tlgr",
-            "stars": 197,
+            "stars": 198,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -3303,7 +3303,7 @@
             "open_issues": 6,
             "owner": "dracu-lah",
             "repo": "TMPlayer",
-            "stars": 110,
+            "stars": 113,
             "topics": [
               "android-tv",
               "compose-multiplatform",
@@ -3375,11 +3375,11 @@
             "id": 1151877538,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T11:28:44Z",
+            "last_commit": "2026-10-25T09:33:00Z",
             "open_issues": 5,
             "owner": "TONresistor",
             "repo": "teleton-agent",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "agent",
               "agentic-loop",
@@ -3503,7 +3503,7 @@
             "open_issues": 10,
             "owner": "belaytzev",
             "repo": "Telebrief",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "ai",
               "anthropic",
@@ -3545,7 +3545,7 @@
             "open_issues": 0,
             "owner": "botnick",
             "repo": "telegram-media-downloader",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "archiver",
               "backup",
@@ -3587,7 +3587,7 @@
             "open_issues": 0,
             "owner": "34823",
             "repo": "tg-pane",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "ai-agents",
               "anthropic",
@@ -3841,6 +3841,38 @@
         },
         {
           "node_type": "item",
+          "title": "telegram-forwarder",
+          "description": "Many-to-many CLI forwarder that mirrors messages and media between chats, with per-route content filters, recovery of posts deleted at the source, and automatic FloodWait handling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Many-to-many Telegram forwarder. Route any number of chats into any number of others, each with its own filter and delivery mode. One self-hosted binary, no bot, no database.",
+            "homepage": null,
+            "id": 1328531505,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-10-26T01:22:41Z",
+            "open_issues": 4,
+            "owner": "awdr74100",
+            "repo": "telegram-forwarder",
+            "stars": 4,
+            "topics": [
+              "cli",
+              "forwarder",
+              "grammers",
+              "message-forwarding",
+              "mtproto",
+              "rust",
+              "telegram",
+              "telegram-channel",
+              "telegram-forwarder",
+              "userbot"
+            ]
+          },
+          "first_seen": "2026-08-31T06:15:21.468Z"
+        },
+        {
+          "node_type": "item",
           "title": "teleping",
           "description": "Production observability for Node.js/TypeScript: structured alerts, smart batching, quiet hours, and components (card/table/progress/checklist) — zero dependencies.",
           "children": [],
@@ -3940,38 +3972,6 @@
             ]
           },
           "first_seen": "2026-10-14T05:27:59.177Z"
-        },
-        {
-          "node_type": "item",
-          "title": "telegram-forwarder",
-          "description": "Many-to-many CLI forwarder that mirrors messages and media between chats, with per-route content filters, recovery of posts deleted at the source, and automatic FloodWait handling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Many-to-many Telegram forwarder. Route any number of chats into any number of others, each with its own filter and delivery mode. One self-hosted binary, no bot, no database.",
-            "homepage": null,
-            "id": 1328531505,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-10-19T18:18:44Z",
-            "open_issues": 1,
-            "owner": "awdr74100",
-            "repo": "telegram-forwarder",
-            "stars": 3,
-            "topics": [
-              "cli",
-              "forwarder",
-              "grammers",
-              "message-forwarding",
-              "mtproto",
-              "rust",
-              "telegram",
-              "telegram-channel",
-              "telegram-forwarder",
-              "userbot"
-            ]
-          },
-          "first_seen": "2026-08-31T06:15:21.468Z"
         },
         {
           "node_type": "item",
@@ -4199,8 +4199,8 @@
             "id": 1216026073,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T16:24:55Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-25T08:34:03Z",
+            "open_issues": 75,
             "owner": "wwewtech",
             "repo": "vpn_telegram_2026",
             "stars": 18,
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T05:22:03.742Z",
+    "last_updated": "2026-10-26T05:24:05.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection great groups, channels, bots and libraries for Telegram",
@@ -4243,10 +4243,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-15T20:35:43Z",
-      "open_issues": 38,
+      "open_issues": 41,
       "owner": "ebertti",
       "repo": "awesome-telegram",
-      "stars": 6168,
+      "stars": 6172,
       "topics": [
         "awesome-list",
         "telegram"
