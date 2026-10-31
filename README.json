@@ -15,11 +15,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T06:29:43Z",
-            "open_issues": 7872,
+            "last_commit": "2026-10-31T06:19:57Z",
+            "open_issues": 7915,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 393400,
+            "stars": 393500,
             "topics": [
               "ai",
               "assistant",
@@ -48,7 +48,7 @@
             "open_issues": 144,
             "owner": "Michele0303",
             "repo": "tiktok-live-recorder",
-            "stars": 928,
+            "stars": 929,
             "topics": [
               "bot",
               "live",
@@ -66,6 +66,36 @@
             ]
           },
           "first_seen": "2026-08-28T12:15:47.616Z"
+        },
+        {
+          "node_type": "item",
+          "title": "@voicybot",
+          "description": "Open Source bot that turns voice messages and audio files into text, in private chats and in groups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Voicy (@voicybot): a Telegram bot that turns voice messages into text in groups and private chats",
+            "homepage": "https://voicybot.com",
+            "id": 75456200,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-28T20:46:54Z",
+            "open_issues": 0,
+            "owner": "backmeupplz",
+            "repo": "voicy",
+            "stars": 914,
+            "topics": [
+              "bot",
+              "speech-recognition",
+              "speech-to-text",
+              "telegram",
+              "telegram-bot",
+              "transcription",
+              "voice-messages",
+              "voice-to-text"
+            ]
+          },
+          "first_seen": "2026-10-31T06:20:32.689Z"
         },
         {
           "node_type": "item",
@@ -147,7 +177,7 @@
             "open_issues": 1,
             "owner": "ilyarolf",
             "repo": "AiogramShopBot",
-            "stars": 248,
+            "stars": 249,
             "topics": [
               "aiogram3",
               "binance-coin",
@@ -335,6 +365,34 @@
             ]
           },
           "first_seen": "2026-08-28T12:15:47.616Z"
+        },
+        {
+          "node_type": "item",
+          "title": "@jev_antispam_bot",
+          "description": "Open Source anti-spam bot for groups that asks TypeSafe's Jev model about each message and deletes only high-confidence spam (shilling, phishing, wallet drainers, DM funnels); admins are exempt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Minimal grammY Telegram anti-spam bot powered by TypeSafe Jev",
+            "homepage": "https://jev.borodutch.com",
+            "id": 1376545490,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-29T15:37:09Z",
+            "open_issues": 0,
+            "owner": "backmeupplz",
+            "repo": "jev_antispam_bot",
+            "stars": 21,
+            "topics": [
+              "antispam",
+              "grammy",
+              "spam-filter",
+              "telegram",
+              "telegram-bot",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-10-31T06:20:32.689Z"
         },
         {
           "node_type": "item",
@@ -976,6 +1034,40 @@
         },
         {
           "node_type": "item",
+          "title": "@FinanceNewsHebBot",
+          "description": "Open Source Bot that posts real-time financial and market news translated and summarized in Hebrew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Global financial & crypto news translated into simple Hebrew on Telegram, with market impact and term explanations. Built with Cloudflare Workers + Gemini AI.",
+            "homepage": "https://t.me/FinanceNewsHebBot",
+            "id": 1428757986,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-10-22T21:00:53Z",
+            "open_issues": 0,
+            "owner": "aviniazov7",
+            "repo": "hebrew-finance-news-bot",
+            "stars": 0,
+            "topics": [
+              "ai",
+              "cloudflare-workers",
+              "crypto",
+              "finance",
+              "gemini-ai",
+              "hebrew",
+              "news",
+              "rss",
+              "serverless",
+              "stocks",
+              "telegram-bot",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-10-31T06:20:32.689Z"
+        },
+        {
+          "node_type": "item",
           "title": "@ProzzoroUkraineBot",
           "description": "Open Source monitors Ukrainian Prozorro procurements and sends matching tender and material-change alerts in Ukrainian.",
           "children": [],
@@ -1044,6 +1136,45 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "telegym",
+              "description": "Load-test any Telegram bot with a drop-in Bot API mock and k6 virtual users.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Load-test any Telegram bot: drop-in Bot API mock + k6 extension. Works with any language.",
+                "homepage": "https://telegym.dev",
+                "id": 1244478910,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-10-29T13:40:54Z",
+                "open_issues": 11,
+                "owner": "kolomiichenko",
+                "repo": "telegym",
+                "stars": 5,
+                "topics": [
+                  "golang",
+                  "htmx",
+                  "k6",
+                  "load-testing",
+                  "mock-server",
+                  "performance-testing",
+                  "telegram",
+                  "telegram-bot",
+                  "telegram-bot-api",
+                  "xk6"
+                ]
+              },
+              "first_seen": "2026-10-31T06:20:32.689Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bot Development"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -1058,10 +1189,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-19T01:17:15Z",
-                    "open_issues": 39,
+                    "open_issues": 40,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29537,
+                    "stars": 29544,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -1117,7 +1248,7 @@
                     "open_issues": 6,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8794,
+                    "stars": 8795,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -1140,8 +1271,8 @@
                     "id": 111210856,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T22:58:04Z",
-                    "open_issues": 76,
+                    "last_commit": "2026-10-31T00:57:54Z",
+                    "open_issues": 60,
                     "owner": "aiogram",
                     "repo": "aiogram",
                     "stars": 5913,
@@ -1342,7 +1473,7 @@
                     "id": 957345363,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T17:34:53Z",
+                    "last_commit": "2026-10-30T14:57:17Z",
                     "open_issues": 1,
                     "owner": "ErisPulse",
                     "repo": "ErisPulse",
@@ -1431,7 +1562,7 @@
                     "id": 1238432054,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-26T19:20:09Z",
+                    "last_commit": "2026-10-30T19:01:20Z",
                     "open_issues": 0,
                     "owner": "GoyGram",
                     "repo": "GoyGram",
@@ -1547,6 +1678,39 @@
                     ]
                   },
                   "first_seen": "2026-09-03T05:09:04.785Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "aiogram-stars",
+                  "description": "Telegram Stars payments for aiogram 3: signed invoice payloads, one on_paid call per payment and a refund queue that retries refundStarPayment.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Telegram Stars payments for aiogram 3: signed invoice payloads, pre-checkout answered before the 10 s deadline, on_paid run once per charge, and a refund outbox in SQLite or PostgreSQL that retries with backoff and survives restarts.",
+                    "homepage": null,
+                    "id": 1422188031,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-24T18:30:41Z",
+                    "open_issues": 4,
+                    "owner": "sinnercode228",
+                    "repo": "aiogram-stars",
+                    "stars": 0,
+                    "topics": [
+                      "aiogram",
+                      "aiogram3",
+                      "asyncio",
+                      "idempotency",
+                      "outbox-pattern",
+                      "payments",
+                      "refunds",
+                      "sqlalchemy",
+                      "telegram",
+                      "telegram-payments",
+                      "telegram-stars-bot"
+                    ]
+                  },
+                  "first_seen": "2026-10-31T06:20:32.689Z"
                 }
               ],
               "description": null,
@@ -1571,7 +1735,7 @@
                     "open_issues": 2,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9216,
+                    "stars": 9215,
                     "topics": [
                       "api",
                       "bot",
@@ -1631,7 +1795,7 @@
                     "open_issues": 25,
                     "owner": "grammyjs",
                     "repo": "grammY",
-                    "stars": 3787,
+                    "stars": 3789,
                     "topics": [
                       "bot",
                       "deno",
@@ -1983,7 +2147,7 @@
                     "open_issues": 1,
                     "owner": "atipugin",
                     "repo": "telegram-bot-ruby",
-                    "stars": 1426,
+                    "stars": 1425,
                     "topics": [
                       "ruby",
                       "telegram",
@@ -2084,7 +2248,7 @@
                     "id": 61838413,
                     "language": "PHP",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-29T23:33:05Z",
+                    "last_commit": "2026-10-31T04:31:26Z",
                     "open_issues": 32,
                     "owner": "danog",
                     "repo": "MadelineProto",
@@ -2432,7 +2596,7 @@
                     "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5548,
+                    "stars": 5551,
                     "topics": [
                       "java",
                       "java-library",
@@ -2579,7 +2743,7 @@
                     "open_issues": 168,
                     "owner": "witnessmenow",
                     "repo": "Universal-Arduino-Telegram-Bot",
-                    "stars": 1236,
+                    "stars": 1235,
                     "topics": [
                       "arduino",
                       "telegram",
@@ -2695,10 +2859,10 @@
                     "language": "Rust",
                     "license": "MIT",
                     "last_commit": "2026-09-15T11:36:14Z",
-                    "open_issues": 74,
+                    "open_issues": 76,
                     "owner": "teloxide",
                     "repo": "teloxide",
-                    "stars": 4254,
+                    "stars": 4255,
                     "topics": [
                       "rust",
                       "telegram",
@@ -2810,7 +2974,7 @@
                     "id": 163152024,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T16:10:02Z",
+                    "last_commit": "2026-10-30T21:43:14Z",
                     "open_issues": 19,
                     "owner": "InsanusMokrassar",
                     "repo": "ktgbotapi",
@@ -3250,48 +3414,6 @@
         },
         {
           "node_type": "item",
-          "title": "Claude Telegram Supercharged",
-          "description": "Drop-in upgrade for the official Claude Code Telegram plugin that adds voice transcription and replies, message history and memory, live tool progress, and a self-restarting daemon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Run Claude Code 24/7 from Telegram. Drop-in upgrade for the official plugin: voice notes both ways, a self-healing daemon, memory across restarts, and Agentic Mode (watch every tool call live). One-line install.",
-            "homepage": null,
-            "id": 1187196979,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-24T15:38:08Z",
-            "open_issues": 6,
-            "owner": "k1p1l0",
-            "repo": "claude-telegram-supercharged",
-            "stars": 139,
-            "topics": [
-              "agentic-ai",
-              "ai-agents",
-              "ai-tools",
-              "anthropic",
-              "automation",
-              "claude",
-              "claude-code",
-              "claude-plugin",
-              "conversation-threading",
-              "developer-tools",
-              "mcp",
-              "mcp-server",
-              "self-hosted",
-              "speech-to-text",
-              "telegram",
-              "telegram-bot",
-              "telegram-plugin",
-              "typescript",
-              "voice-messages",
-              "whisper"
-            ]
-          },
-          "first_seen": "2026-10-14T05:27:59.177Z"
-        },
-        {
-          "node_type": "item",
           "title": "TMPlayer",
           "description": "Unofficial open source video player for Android TV, phones, Windows and Linux that streams the videos in your Telegram chats while they download.",
           "children": [],
@@ -3302,11 +3424,11 @@
             "id": 1326314334,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-28T19:15:22Z",
+            "last_commit": "2026-10-30T17:27:59Z",
             "open_issues": 3,
             "owner": "dracu-lah",
             "repo": "TMPlayer",
-            "stars": 132,
+            "stars": 142,
             "topics": [
               "android-tv",
               "compose-multiplatform",
@@ -3328,6 +3450,48 @@
               "telegram-video-player",
               "video-player",
               "windows"
+            ]
+          },
+          "first_seen": "2026-10-14T05:27:59.177Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Claude Telegram Supercharged",
+          "description": "Drop-in upgrade for the official Claude Code Telegram plugin that adds voice transcription and replies, message history and memory, live tool progress, and a self-restarting daemon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Run Claude Code 24/7 from Telegram. Drop-in upgrade for the official plugin: voice notes both ways, a self-healing daemon, memory across restarts, and Agentic Mode (watch every tool call live). One-line install.",
+            "homepage": null,
+            "id": 1187196979,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-24T15:38:08Z",
+            "open_issues": 7,
+            "owner": "k1p1l0",
+            "repo": "claude-telegram-supercharged",
+            "stars": 141,
+            "topics": [
+              "agentic-ai",
+              "ai-agents",
+              "ai-tools",
+              "anthropic",
+              "automation",
+              "claude",
+              "claude-code",
+              "claude-plugin",
+              "conversation-threading",
+              "developer-tools",
+              "mcp",
+              "mcp-server",
+              "self-hosted",
+              "speech-to-text",
+              "telegram",
+              "telegram-bot",
+              "telegram-plugin",
+              "typescript",
+              "voice-messages",
+              "whisper"
             ]
           },
           "first_seen": "2026-10-14T05:27:59.177Z"
@@ -3409,7 +3573,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-30T05:57:01Z",
-            "open_issues": 170,
+            "open_issues": 171,
             "owner": "littlebearapps",
             "repo": "untether",
             "stars": 74,
@@ -3463,6 +3627,39 @@
         },
         {
           "node_type": "item",
+          "title": "trip2g",
+          "description": "Open Source Self-hosted publisher that turns Obsidian notes into posts for Telegram channels and a website at the same time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source MCP knowledge mesh - self-host your second brain, expose it to AI agents, federate with peers.",
+            "homepage": "https://trip2g.com",
+            "id": 1173239715,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-10-22T05:46:53Z",
+            "open_issues": 23,
+            "owner": "trip2g",
+            "repo": "trip2g",
+            "stars": 40,
+            "topics": [
+              "ai-agent-memory",
+              "cms",
+              "digital-garden",
+              "golang",
+              "knowledge-base",
+              "markdown",
+              "mcp-server",
+              "obsidian",
+              "obsidian-publish",
+              "self-hosted",
+              "static-site-generator"
+            ]
+          },
+          "first_seen": "2026-10-31T06:20:32.689Z"
+        },
+        {
+          "node_type": "item",
           "title": "Telegram Media Downloader",
           "description": "Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics.",
           "children": [],
@@ -3473,7 +3670,7 @@
             "id": 1139332404,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T07:16:23Z",
+            "last_commit": "2026-10-30T07:15:57Z",
             "open_issues": 10,
             "owner": "rfsbraz",
             "repo": "telegram-downloader",
@@ -3548,7 +3745,7 @@
             "open_issues": 0,
             "owner": "botnick",
             "repo": "telegram-media-downloader",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "archiver",
               "backup",
@@ -3777,6 +3974,48 @@
         },
         {
           "node_type": "item",
+          "title": "LinkDownloaderBotForGroups",
+          "description": "Self-hosted bot that turns supported video links into native Telegram posts for content that users are authorized to download and share.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted Telegram video downloader for group chats, powered by yt-dlp. Automatically replaces shared links with native videos using Docker, caching, deduplication, and safe URL validation.",
+            "homepage": null,
+            "id": 1127342290,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-28T10:10:39Z",
+            "open_issues": 2,
+            "owner": "Avazbek22",
+            "repo": "LinkDownloaderBotForGroups",
+            "stars": 5,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "ffmpeg",
+              "group-chat",
+              "link-downloader",
+              "linux",
+              "media-downloader",
+              "python",
+              "self-hosted",
+              "social-media-downloader",
+              "telegram",
+              "telegram-bot",
+              "telegram-bot-api",
+              "telegram-groups",
+              "telegram-video-downloader",
+              "ubuntu",
+              "video-bot",
+              "video-downloader",
+              "vps",
+              "yt-dlp"
+            ]
+          },
+          "first_seen": "2026-08-31T06:15:21.468Z"
+        },
+        {
+          "node_type": "item",
           "title": "telethon-plus",
           "description": "Self-hosted HTTP + MCP API wrapping a full Telegram user account via Telethon, with async jobs and generated Go/Python clients.",
           "children": [],
@@ -3866,48 +4105,6 @@
             ]
           },
           "first_seen": "2026-09-01T05:43:14.362Z"
-        },
-        {
-          "node_type": "item",
-          "title": "LinkDownloaderBotForGroups",
-          "description": "Self-hosted bot that turns supported video links into native Telegram posts for content that users are authorized to download and share.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Self-hosted Telegram video downloader for group chats, powered by yt-dlp. Automatically replaces shared links with native videos using Docker, caching, deduplication, and safe URL validation.",
-            "homepage": null,
-            "id": 1127342290,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-28T10:10:39Z",
-            "open_issues": 2,
-            "owner": "Avazbek22",
-            "repo": "LinkDownloaderBotForGroups",
-            "stars": 4,
-            "topics": [
-              "docker",
-              "docker-compose",
-              "ffmpeg",
-              "group-chat",
-              "link-downloader",
-              "linux",
-              "media-downloader",
-              "python",
-              "self-hosted",
-              "social-media-downloader",
-              "telegram",
-              "telegram-bot",
-              "telegram-bot-api",
-              "telegram-groups",
-              "telegram-video-downloader",
-              "ubuntu",
-              "video-bot",
-              "video-downloader",
-              "vps",
-              "yt-dlp"
-            ]
-          },
-          "first_seen": "2026-08-31T06:15:21.468Z"
         },
         {
           "node_type": "item",
@@ -4043,6 +4240,72 @@
             ]
           },
           "first_seen": "2026-08-28T12:15:47.616Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Telesec",
+          "description": "Hermes Agent plugin that turns Telegram Business voice messages, round video notes and audio attachments into text in the same chat, with optional searchable text history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Telesec — Telegram Business secretary for Hermes",
+            "homepage": "https://telesec.sergeybaus.com",
+            "id": 1304251305,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-30T16:05:52Z",
+            "open_issues": 9,
+            "owner": "neoromantic",
+            "repo": "telesec",
+            "stars": 2,
+            "topics": [
+              "hermes-agent",
+              "hermes-agent-plugin",
+              "hermes-plugin",
+              "python",
+              "sergeybaus-oss",
+              "speech-to-text",
+              "telegram",
+              "telegram-bot",
+              "telegram-business",
+              "transcription",
+              "voice-to-text",
+              "voice-transcription"
+            ]
+          },
+          "first_seen": "2026-10-31T06:20:32.689Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Adsun",
+          "description": "Ad network for Telegram Mini Apps, bots and channels: rewarded, interstitial and task ads with a JavaScript SDK and USDT payouts (examples).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Examples for monetizing Telegram Mini Apps with Adsun: rewarded, interstitial and task ads. https://adsun.io",
+            "homepage": "https://adsun.io/docs",
+            "id": 1429479313,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-22T08:50:51Z",
+            "open_issues": 0,
+            "owner": "Adsuner",
+            "repo": "adsun-telegram-sdk",
+            "stars": 0,
+            "topics": [
+              "ad-network",
+              "adsun",
+              "monetization",
+              "rewarded-ads",
+              "sdk",
+              "telegram",
+              "telegram-ads",
+              "telegram-bot",
+              "telegram-mini-app",
+              "twa"
+            ]
+          },
+          "first_seen": "2026-10-31T06:20:32.689Z"
         },
         {
           "node_type": "item",
@@ -4237,7 +4500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T06:30:34.926Z",
+    "last_updated": "2026-10-31T06:20:32.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection great groups, channels, bots and libraries for Telegram",
@@ -4245,17 +4508,17 @@
       "id": 62419944,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-15T20:35:43Z",
-      "open_issues": 49,
+      "last_commit": "2026-10-30T23:00:23Z",
+      "open_issues": 30,
       "owner": "ebertti",
       "repo": "awesome-telegram",
-      "stars": 6181,
+      "stars": 6184,
       "topics": [
         "awesome-list",
         "telegram"
       ]
     },
-    "original_repository_sha": "f57f0fc008e7989eb31a611c83f44bf605118367",
+    "original_repository_sha": "c6a210f8a16609d06df2e37019ee2087afd1fe27",
     "enhanced_repository": "enhansome/enhansome-telegram",
     "enhanced_repository_description": null,
     "title": "Awesome Telegram with stars"
